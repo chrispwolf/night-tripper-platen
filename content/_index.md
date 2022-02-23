@@ -1,17 +1,12 @@
----
-title: My Very Good Games
-type: docs
----
 
-This is a place with some very good games I made. It uses hugo and markdown to turn some plaintext drafts into a website.
+# Interstellar Adventure Role-Play
 
-You can install this website as an app, it's a fully functional PWA!
+Night Tripper is a starting point. A set of light and modular tools, rules and procedures. Use them as written only as long as they serve your shared goals. Hack, expand, and repurpose them without hesitation. They assume a group of three or more, with one person acting as Referee and the others as players controlling individual characters.
 
-You can checkout two different versions of Picaroons, either via the menu or these links:
+Night Tripper is not original. If you are familiar with the earliest 2d6 interstellar role-playing games, you'll recognize a lineage. Night Tripper aspires to that spirit of improvisation, open-endedness and malleability.
 
-1. [Picaroons as a multi-page project](/games/picaroons)
-2. [Picaroons as a single-page project](/games/picaroons-sp)
+The players create and pursue their own goals in a world sketched out by the referee. The group fills in the details of the world over time. Ideally, most of the time the referee is following the players' lead and responding to them, not the other way around.
 
-You can also checkout the blog via the menu or [this link](/posts).
+The referee adjudicates fictional outcomes and applies rules as necessary. If something comes up and the rest of the table thinks the referee is full of it, the referee is wrong.
 
-While not currently implemented, you can include multiple language versions of your site and switch between them via the menu.
+Roleplaying is best done with people you know, like, and trust. Talk with your group about safety and off-limits content. Research and use TTRPG safety tools.

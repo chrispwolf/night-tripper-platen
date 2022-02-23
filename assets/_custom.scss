@@ -1,0 +1,32 @@
+* {
+    background-color: transparent;
+}
+
+body {
+    background-image: url("assets/images/bg.png");
+    background-position: top right;
+    background-size: 40%;
+    background-repeat: no-repeat;
+    padding-top: 5rem;
+}
+
+.book-brand {
+    padding: 5px;
+    font-size: 3rem;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.book-menu-content {
+    padding-top: 5rem!important;
+}
+
+.book-toc-content {
+    position: fixed!important;
+    top: 50%!important;
+    overflow: visible!important;
+    nav {
+        position: relative;
+        top: -40%;
+    }
+}

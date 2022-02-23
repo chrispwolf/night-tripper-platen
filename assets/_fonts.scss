@@ -1,0 +1,18 @@
+@font-face {
+    font-family:"ITC Avant Garde";
+    src: url("assets/fonts/ITCAvantGardeStd-Md.woff") format("woff"),
+        url("assets/fonts/ITCAvantGardeStd-Md.woff") format("woff");
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family:"ITC Avant Garde";
+    src: url("/font-files/ITCAvantGardeStd-MdObl.ttf") format("truetype");
+    font-weight: 400;
+    font-style: italic;
+}
+
+* {
+    font-family:"ITC Avant Garde", 'courier';
+}
