@@ -56,11 +56,11 @@ markup:
 #       weight: 10
 
 params:
-  description: My site description.
+  description: Interstellar Adventure Role-Play.
 
   # Use this for the social media preview functionality
-  # images:
-  #   - /images/site-feature-image.png
+  images:
+    - /assets/images/ogimage.png
 
   # (Optional, default light) Sets color theme: light, dark or auto.
   # Theme 'auto' switches between dark and light modes based on browser/os preferences
