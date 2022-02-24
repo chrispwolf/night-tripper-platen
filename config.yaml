@@ -56,7 +56,7 @@ markup:
 #       weight: 10
 
 params:
-  description: Interstellar Adventure Role-Play.
+  description: Interstellar Adventure Role-Play
 
   # Use this for the social media preview functionality
   images:
