@@ -1,5 +1,5 @@
 ---
-weight: 8
+weight: 1
 title: "Interstellar Cartography"
 ---
 
@@ -22,12 +22,6 @@ Place a dot on the spot where each die landed and note it’s habitability.
 Roll the remainder of each world’s attributes using the tables on the following pages. Roll 1d6 on each table and note the results. Rolls may affect later rolls. Finally, calculate the world’s Technology attribute.
 
 Draw lines connecting each world to its nearest neighbors. These are travel routes. A route of about the length of your index finger is 2 parsecs. The shortest routes are 1 parsec.
-
-For each world, write some brief notes, the following are all helpful to know: power structure, trade goods in supply and demand, conflicts locally and with neighbors, opportunities for the PCs.
-
-Create Insider and Outsider encounter tables for the area. You can start with as few as three for each type, or create a larger table for each world.
-
-At this point you will be ready to turn your players loose. Remember to point them at potential adventure, but follow their lead. Encourage them to come up with goals for their characters, then provide the means to accomplish them. Insert your favorite science fiction rpg modules.Add detail to your worlds over time.
 
 ## World Generation
 ### Habitability

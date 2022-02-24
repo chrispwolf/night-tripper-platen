@@ -3,11 +3,13 @@
 }
 
 body {
-    background-image: url("assets/images/bg.png");
-    background-position: top right;
-    background-size: 40%;
-    background-repeat: no-repeat;
-    padding-top: 5rem;
+    @media(min-width: 897px) {
+        background-image: url("assets/images/bg.png");
+        background-position: top right;
+        background-size: 40%;
+        background-repeat: no-repeat;
+        padding-top: 5rem;
+    }
 }
 
 .book-brand {
