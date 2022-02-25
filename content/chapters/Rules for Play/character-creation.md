@@ -1,6 +1,7 @@
 ---
 weight: 2
 title: "Chracter Creation"
+bookToC: true
 ---
 
 # Character Creation

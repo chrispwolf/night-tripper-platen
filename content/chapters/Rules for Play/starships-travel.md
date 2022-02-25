@@ -24,7 +24,8 @@ The players may start with a starship. If they do, they are likely in debt for t
 | Trade Cog | 1 | 1 | 0 | 4 | 2 | 1000c |
 | Blockade Runner | 2 | 3 | 1 | 2 | 1 | 2000c |
 | Pirate Raider | 2 | 2 | 2 | 4 | 2 | 2500c |
-* No gate core. Incapable of interstellar travel
+
+\* ***No gate core. Incapable of interstellar travel***
 
 ## Travel
 Ships with a gate core travel 1 parsec per week through interstellar space. Within a star system, a ship can hop between major locations instantly. Ships can only safely enter or leave gate space when a significant distance from large objects. A ship can hold 4 fuel in its fuel tanks. 1 fuel is expended for each parsec of interstellar travel.

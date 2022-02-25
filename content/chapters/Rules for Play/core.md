@@ -1,6 +1,7 @@
 ---
 weight: 1
 title: "Core"
+bookToC: true
 ---
 
 # Core
@@ -28,9 +29,9 @@ Sometimes successful throws can have additional effects, measured in **impact**.
 
 
 ## Physical Characteristics & Skills
-PCs have two physical characteristics. These are **Strength** representing power and endurance, and **Agility** representing quickness and coordination.
+PCs have two physical characteristics. **Strength** is power and endurance. **Agility** is quickness and coordination.
 
-PCs also have skills representing specific areas of expertise. A rank of 1 or higher in a skill represents at least entry-level professional knowledge in the field. For certain very complex tasks, a PC will automatically fail if they don't have the skill at all. For example a PC without any ranks of medic simply cannot perform brain surgery without killing the patient.
+PCs also have **skills** in specific areas of expertise. A rank of 1 or higher in a skill represents at least entry-level professional knowledge in the field. For certain very complex tasks, a PC will automatically fail if they don't have the skill at all. For example a PC without any ranks of medic simply cannot perform brain surgery without killing the patient.
 
 
 ## Past Lives

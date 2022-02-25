@@ -58,12 +58,21 @@ body {
     display: inline;
 }
 
-.book-menu ul a.active {
-    font-weight: bold;
-}
-
-.book-menu ul a:hover, .book-menu ul a.active {
-    opacity: 1;
-    color: #910A33;
-    border-color: #910A33;
+.book-menu {
+    ul {
+        span {
+            font-weight: bold;
+        }
+        a {
+            &.active {
+                font-weight: bold;
+                color: #910A33;
+                border-color: #910A33;
+            }
+            &:hover {
+                color: #910A33;
+                opacity: 1;
+            }
+        } 
+    }
 }
