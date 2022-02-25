@@ -5,6 +5,7 @@
 body {
     @media(min-width: 897px) {
         background-image: url("assets/images/bg.png");
+        background-attachment: fixed;
         background-position: top right;
         background-size: 40%;
         background-repeat: no-repeat;
