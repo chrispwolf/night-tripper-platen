@@ -1,3 +1,6 @@
+---
+title: "Interstellar Adventure Role-Play"
+---
 
 # Interstellar Adventure Role-Play (BETA)
 ### By Chris P Wolf
