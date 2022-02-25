@@ -1,6 +1,7 @@
 ---
 weight: 5
 title: "Orbital Combat"
+bookToC: true
 ---
 
 # Orbital Combat

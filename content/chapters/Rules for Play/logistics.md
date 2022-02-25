@@ -1,6 +1,7 @@
 ---
 weight: 6
 title: "Logistics"
+bookToC: true
 ---
 
 # Logistics

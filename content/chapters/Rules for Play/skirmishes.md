@@ -1,6 +1,7 @@
 ---
 weight: 3
 title: "Skirmishes"
+bookToC: true
 ---
 
 # Skirmishes

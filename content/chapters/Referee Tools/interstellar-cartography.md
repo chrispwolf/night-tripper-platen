@@ -1,6 +1,7 @@
 ---
 weight: 1
 title: "Interstellar Cartography"
+bookToC: true
 ---
 
 # Interstellar Cartography

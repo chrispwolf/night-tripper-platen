@@ -1,6 +1,7 @@
 ---
 weight: 3
 title: "Encounters"
+bookToC: true
 ---
 
 # Encounters
