@@ -8,9 +8,15 @@
 
 @font-face {
     font-family:"ITC Avant Garde";
-    src: url("/font-files/ITCAvantGardeStd-MdObl.ttf") format("truetype");
+    src: url("assets/fonts/ITCAvantGardeStd-MdObl.ttf") format("truetype");
     font-weight: 400;
     font-style: italic;
+}
+
+@font-face {
+    font-family:"ITC Avant Garde";
+    src: url("assets/fonts/ITCAvantGardeStd-Bold.ttf") format("truetype");
+    font-weight: 600;
 }
 
 * {

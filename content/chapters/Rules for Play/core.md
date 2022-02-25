@@ -51,4 +51,4 @@ Bad things happen to PCs. They might get drunk, or poisoned, or get a broken leg
 
 
 ## NPCs
-Non-player characters can be described by a single **skill** stat which they use for all throws that fall under their areas of expertise. The referee may wish to flesh out more important NPCs with a specific list of skills, but this is rarely necessary.
+Non-player characters can be described by a single **skill** stat which they use for all throws that fall under their areas of expertise. The referee may wish to flesh out more important NPCs with a specific list of skills, but this is rarely necessary. Skill 1 is baseline professional level. Skill 3 is an expert. Skill 4 or greater is very rare and exceptional.
