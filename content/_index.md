@@ -6,4 +6,4 @@ Night Tripper is a lightweight set of rules for playing interstellar science fic
 
 Night Tripper is still in development, and this site will be updated with new features and revised rules over time.
 
-Night Tripper is free. If you think it's worth money, double the amount in your head and [donate it to Trans Lifeline](https://translifeline.org/donate/)
+Night Tripper is free. If you think it's worth money, double the amount in your head and [donate it to Trans Lifeline](https://translifeline.org/donate/).
