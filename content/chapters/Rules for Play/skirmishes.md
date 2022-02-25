@@ -33,7 +33,7 @@ Laser weapons shoot beams of focused light, and armor cannot be used against the
 If you choose to talk as your action, you can say a few words before anything else happens. Maybe if you are diplomatic you can stop this foolishness before it starts.
 
 ## Melee Attacks
-A combatant with a longer weapon begins with the advantage over one with a shorter weapon.At their discretion, the referee can declare the opposite, for situations such as using a halberd in a space station maintenance tunnel.
+A combatant with a longer weapon begins with the advantage over one with a shorter weapon. At their discretion, the referee can declare the opposite, for situations such as using a halberd in a space station maintenance tunnel.
 
 Advantaged melee attacks get a +2 modifier, matched melee attacks +1, and disadvantaged melee attacks +0.
 
@@ -43,12 +43,12 @@ If a disadvantaged melee attacker successfully hits their target (gets 1 or more
 You can run about 30' over open ground.
 
 ## Miscellaneous
-Sometimes you have to turn a crank or operate a computer or drive a grav car or inject healing nanites while people are fighting.
+Sometimes you have to turn a crank or operate a computer or drive a gravcar or inject healing nanites while people are fighting.
 
 ## Ranged Attacks
 Ranged attackers use the ranged attack chart (p. 7) to determine their modifier, based on the weapon they are using and the range to their target. Ranged attacks are made in the order listed on the ranged attack chart.
 
-The weapons detailed in the chart represent broad categories of firearms.Add additional rows to the chart as needed in your campaign.
+The weapons detailed in the chart represent broad categories of firearms. Add additional rows to the chart as needed in your campaign.
 
 ## Skirmish Tables
 ### Ranged Attack Chart

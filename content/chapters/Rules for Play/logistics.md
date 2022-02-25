@@ -15,7 +15,7 @@ Travel between star systems is measured in weeks. During a week in port the PC's
 One month is four weeks, and a year is 12 months.
 
 ## Equipment
-The following are lists of equipment and their costs. Listed costs assume the item is readily available on a world. For worlds with a very low Tech attribute, costs may be much highter for technological items. Other events in the campaign like blockades or trade disputes may also affect the costs of equipent, at the referee's discretion.
+The following are lists of equipment and their costs. Listed costs assume the item is readily available on a world. For worlds with a very low Tech attribute, costs may be much higher for technological items. Other events in the campaign like blockades or trade disputes may also affect the costs of equipment, at the referee's discretion.
 
 ### Basic equipment you can buy for one credit:
 * A medical kit

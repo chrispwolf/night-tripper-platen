@@ -37,5 +37,3 @@ To jump away, someone must spend this phase activating the gate core. The ship m
 | 4 | Crew hit. Throw an attack with a +2 bonus against a random PC, as if in a skirmish. If NPC crew is hit, reduce NPC ship skill by 1. |
 | 5 | Gate core damaged. Ship cannot enter gatespace. Can be jury-rigged to operate one round at a time. Jumping requires one character to jury rig during the ‘Other’ phase, and another to activate the jump. If hit again, gate core is destroyed. |
 | 6 | Attacker chooses hit location |
-
-<div class="page"/>

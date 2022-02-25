@@ -27,4 +27,4 @@ These rules cover small craft such as light freighters, militia gunboats and ple
 Ships with a gate core travel 1 parsec per week through interstellar space. Within a star system, a ship can hop between major locations instantly. Ships can only safely enter or leave gate space when a significant distance from large objects. A ship can hold 4 fuel in its fuel tanks. 1 fuel is expended for each parsec of interstellar travel.
 
 ## Ship Encounters
-When arriving in a new system, travelling between locations within a system, or leaving a system, the referee checks for encounters with other vessels. An encounter occurs on a 1d6 roll equal to or less than the local world's Population attribute. Tools for randomizing encounters and determining the disposition of encountered ships are in the Referee section.
+When arriving in a new system, traveling between locations within a system, or leaving a system, the referee checks for encounters with other vessels. An encounter occurs on a 1d6 roll equal to or less than the local world's Population attribute. Tools for randomizing encounters and determining the disposition of encountered ships are in the Referee section.

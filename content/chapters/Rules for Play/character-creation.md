@@ -6,7 +6,7 @@ title: "Chracter Creation"
 # Character Creation
 Use an index card to keep a record of your character. 
 
-1. Roll your character's age: 2d6x5 years. Minimum 20. Your starting maximum Luck is 12 minus the decade of your age (e.g. a 35 year old character has a starting maximum luck of 9).
+1. Roll your character's age: 2d6x5 years. Minimum 20. Your starting maximum Luck is 12 minus the decade of your age (e.g. a 35-year-old character has a starting maximum luck of 9).
 
 2. Roll 2d6 each for your Strength and Agility characteristics, and subtract the decade of your age to each 2d6 roll. Compare each result on the table below and note their physical characteristic ranks.
 
@@ -16,9 +16,9 @@ Use an index card to keep a record of your character.
 
 5. When you gain the weapon skill, you must choose a specific weapon, like scattergun or cutlass. When you gain the science skill, choose a specific field, like chemistry or biology. When you gain the vehicle skill, choose a specific vehicle class, like flyer or antigrav.
 
-6. Invent the details of yout past life based on your skills and the setting. Discuss it with the referee.
+6. Invent the details of your past life based on your skills and the setting. Discuss it with the referee.
 
-7. Roll a random birth month. Examples given are for the imperial calendar. The corresponding personality trait represents general beliefs about people born in that month. Use it as a role playing prompt. Lean into it, play against it, or ignore it as you like. 
+7. Roll a random birth month. Examples given are for the imperial calendar. The corresponding personality trait represents general beliefs about people born in that month. Use it as a role-playing prompt. Lean into it, play against it, or ignore it as you like. 
 
 8. Roll a random downfall, the reason you moved from your previous life into a wandering life of adventure. Detail it in play.
 
@@ -28,7 +28,7 @@ Use an index card to keep a record of your character.
 
 11. Name your character.
 
-Before the game starts, iscuss your personal and group goals with the other players, help drive the initial action. Give the referee something to respond to. If you start with a ship and a shared debt, you may want to figure out how to pay your mortgage next month.
+Before the game starts, discuss your personal and group goals with the other players, help drive the initial action. Give the referee something to respond to. If you start with a ship and a shared debt, you may want to figure out how to pay your mortgage next month.
 
 <div class="page"/>
 
@@ -49,13 +49,15 @@ Before the game starts, iscuss your personal and group goals with the other play
 3. Gunnery
 4. Helm
 5. Science
+6. Choose from 1-5, increase Past Life Rank
 
 ### Soldier
 1. Weapon
 2. Weapon
 3. Engineer
 4. Medic
-5. Gunnery 
+5. Gunnery
+6. Choose from 1-5, increase Past Life Rank
 
 ### Merchant
 1. Business
@@ -63,6 +65,7 @@ Before the game starts, iscuss your personal and group goals with the other play
 3. Helm
 4. Weapon
 5. Vehicle
+6. Choose from 1-5, increase Past Life Rank
 
 ### Operative
 1. Computer
@@ -70,6 +73,7 @@ Before the game starts, iscuss your personal and group goals with the other play
 3. Medic
 4. Combat
 5. Vehicle
+6. Choose from 1-5, increase Past Life Rank
 
 
 

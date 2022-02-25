@@ -9,7 +9,7 @@ title: "Interstellar Cartography"
 Worlds are described by four attributes, each ranked from 1 to 6. 
 + Habitability: The capacity of the world to comfortably sustain human life.
 + Population: The number of people living on the world.
-+ Authority: The strength and presence of legal authorit on the world.
++ Authority: The strength and presence of legal authority on the world.
 + Technology: How common and accessible advanced technology and manufacturing is on the world.
 
 ## Preparing a star map
