@@ -5,7 +5,7 @@ bookToC: true
 ---
 
 # Starships & Travel
-These rules cover small craft such as light freighters, militia gunboats and pleasure yachts. Capitals and other large ships should be treated as set pieces and terrain.You won't win in a fight against them.
+These rules cover small craft like light freighters, gunboats and pleasure yachts. Capitals and other large ships should be treated as set pieces and terrain. You won't win in a fight against them.
 
 The players may start with a starship. If they do, they are likely in debt for the full cost to a bank, loan shark, ship manufacturer, or other entity. Standard loan repayment terms are 1.5% of the total cost of the ship paid out over 100 months. At the end of 100 months the PCs will have paid 150% of the cost of the ship. Round fractions of a credit up.
 
@@ -32,4 +32,4 @@ The players may start with a starship. If they do, they are likely in debt for t
 Ships with a gate core travel 1 parsec per week through interstellar space. Within a star system, a ship can hop between major locations instantly. Ships can only safely enter or leave gate space when a significant distance from large objects. A ship can hold 4 fuel in its fuel tanks. 1 fuel is expended for each parsec of interstellar travel.
 
 ## Ship Encounters
-When arriving in a new system, traveling between locations within a system, or leaving a system, the referee checks for encounters with other vessels. An encounter occurs on a 1d6 roll equal to or less than the local world's Population attribute. Tools for randomizing encounters and determining the disposition of encountered ships are in the Referee section.
+When arriving in a new system, traveling between locations within a system, or leaving a system, the referee checks for encounters with other vessels. An encounter occurs on a 1d6 roll equal to or less than the local world's Population attribute. The referee section has tools for randomizing encounters and determining the disposition of encountered ships.

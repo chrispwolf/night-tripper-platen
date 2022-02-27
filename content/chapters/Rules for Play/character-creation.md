@@ -7,15 +7,15 @@ bookToC: true
 # Character Creation
 Use an index card to keep a record of your character. 
 
-1. Roll your character's age: 2d6x5 years. Minimum 20. Your starting maximum Luck is 12 minus the decade of your age (e.g. a 35-year-old character has a starting maximum luck of 9).
+1. Roll your character's age: 2d6x5 years. Minimum 20. Your current and maximum Luck is 12 minus the tens digit of your age (e.g. a 35-year-old character has a starting luck of 9/9).
 
-2. Roll 2d6 each for your Strength and Agility characteristics, and subtract the decade of your age to each 2d6 roll. Compare each result on the table below and note their physical characteristic ranks.
+2. Roll 2d6 each for your Strength and Agility characteristics, and subtract the tens digit of your age to each 2d6 roll. Compare each result on the table below and note their physical characteristic ranks.
 
 3. Your past life's rank starts at 1.
 
-4. Take a number of dice equal to the decade of your age. Split them between one or two skill groups below. Gain new rolled skills at rank 1, or improve matching skills. On a 6 choose any skill from the corresponding group, and increase your past life rank by 1.
+4. Take a number of dice equal to the tens digit of your age. Split them between one or two skill groups below. Gain new rolled skills at rank 1, or increase existing rolled skills by 1. On a 6 choose to gain or improve any skill from the corresponding group, and increase your past life rank by 1.
 
-5. When you gain the weapon skill, you must choose a specific weapon, like scattergun or cutlass. When you gain the science skill, choose a specific field, like chemistry or biology. When you gain the vehicle skill, choose a specific vehicle class, like flyer or antigrav.
+5. When you gain the weapon skill, choose a specific weapon, like scattergun or cutlass. When you gain the science skill, choose a specific field, like chemistry or biology. When you gain the vehicle skill, choose a specific vehicle class, like flyer or antigrav.
 
 6. Invent the details of your past life based on your skills and the setting. Discuss it with the referee.
 
@@ -23,7 +23,7 @@ Use an index card to keep a record of your character.
 
 8. Roll a random downfall, the reason you moved from your previous life into a wandering life of adventure. Detail it in play.
 
-9. Start with luck equal to your maximum luck. Start with any weapons in which you are skilled. If you have the Medic skill, start with a medical kit. If you have the Computer skill, start with a portable computer console. If you have the Engineer skill, start with a portable toolkit. If you have a science skill, start with a portable lab or survey equipment related to your scientific field.
+9. Start with any weapons in which you are skilled. If you have the Medic skill, start with a medical kit. If you have the Computer skill, start with a portable computer console. If you have the Engineer skill, start with a portable toolkit. If you have a science skill, start with a portable lab or survey equipment related to your scientific field.
 
 10. Roll a number of d6's equal do the decade of your age. Start play with that many credits.
 
@@ -86,7 +86,7 @@ Before the game starts, discuss your personal and group goals with the other pla
 | 3            | Sword        | Clever            |
 | 4            | Archon       | Domineering       |
 | 5            | Deckhand     | Practical         |
-| 6            | Sage         | Quiet             |
+| 6            | Sage         | Wise              |
 | 7            | Merchant     | Shrewd            |
 | 8            | Boar         | Loyal             |
 | 9            | Desert Mouse | Flighty           |

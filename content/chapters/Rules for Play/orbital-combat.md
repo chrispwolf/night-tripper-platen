@@ -9,15 +9,17 @@ Fighting in space frequently involves one side trying to get to a certain point 
 
 Start by establishing the distance between combatants and the goal location. The most common distance is 4, the distance between a stellar object and its safe gate perimeter. Roll 2d3 for a random distance.
 
+If the objective of the fight does not involve a reace to a specific location, be sure to declare a victory condition / end state for each side. Pitched battles to the death are very rare.
+
 Each ship starts with a **Defense** of 2. An easy way to track Defense is to use a die for each ship, with the ship's current Defense facing up.
 
-Each round comprises 4 phases: Systems, Maneuver, Shoot, and Other. During each of the first three phases, a single crew member makes a throw, then spends the Impact of the roll, one-for-one, on different effects. The impact of a throw is limited by the rating of a relevant ship attribute. Each crew member may only act once in a round. Throws for all ships are made simultaneously.
+Each round comprises 4 phases: Systems, Maneuver, Shoot, and Other. During each of the first three phases, a single crew member makes a throw, then spends the Impact of the roll, one-for-one, on different effects. The maximum impact of a throw is limited by the rating of a relevant ship attribute. Each crew member may only act once in a round. Throws for all ships are made simultaneously.
 
 **Phase 1: Systems**
-Throw + Computer skill, impact limited by systems. Spend impact to add to acceleration and/or guns ratings of the ship for the rest of the round.
+Throw + Computer skill, impact limited by systems. Spend impact to add to the acceleration and/or guns ratings of the ship for the rest of the round.
 
 **Phase 2: Maneuver**
-Throw + Helm skill, impact limited by acceleration. Spend impact to reduce distance to a location or to increase defense.
+Throw + Helm skill, impact limited by acceleration. Spend impact to reduce distance to objective location or to increase defense.
 
 **Phase 3: Gunnery**
 Throw + Gunnery skill, impact limited by guns. Spend impact to reduce target's defense. If defense is zero, set it aside. Roll 1d6 on the gunnery hit location table once per remaining point of impact.

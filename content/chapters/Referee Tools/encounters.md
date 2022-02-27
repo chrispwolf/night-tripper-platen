@@ -6,11 +6,11 @@ bookToC: true
 
 # Encounters
 
-As stated in the [Starships & Travel](/chapters/Rules-for-Play/starships-travel) rules, the referee rolls 1d6 each time the players enter or leave a star system, and once per week when traveling within a system. If the roll is equal to or less than the world's population attribute rank, an encounter occurs. The referee must determine who the players encounter, and the disposition of the encountered vessel.
+As stated in the [Starships & Travel](/chapters/Rules-for-Play/starships-travel) rules, the referee rolls 1d6 each time the players enter or leave a star system, and once per week when traveling within a system. If the roll is equal to or less than the world's population attribute, an encounter occurs. The referee must determine who the players encounter, and the disposition of the encountered vessel.
 
 ## Encounter Lists
 
-Before play, prepare a list of encounters for each world, numbered from 1 to 6. Before the first session, don't hesitate to repeat encounters on a world's list, or use the same encounters on multiple worlds. Remember that your prep should be easy and fun. Encounters numbered lower than the world's Authority attribute should be **insider** encounters, and those higher should be **outsiders**. The encounter numbered equal to Authority can be either, or can be an insider and outsider in conflict. When an encounter occurs in play, roll 1d6 and introduce the corresponding encounter, rolling disposition if necessary.
+Before play, prepare a list of encounters for each world, numbered from 1 to 6. For the first session, don't hesitate to repeat encounters on a world's list, or use the same encounters on multiple worlds. Remember that your prep should be easy and fun. Encounters numbered lower than the world's Authority attribute should be **insider** encounters, and those higher should be **outsiders**. The encounter numbered equal to Authority can be either, or can be an insider and outsider in conflict. When an encounter occurs in play, roll 1d6 and introduce the corresponding encounter, rolling disposition if necessary.
 
 The labels of "outsider" and "insider" are necessarily broad descriptions of a relationship to power structures and local governmental authority.They are fuzzy around the edges, and are not value judgements. An encounter with corrupt militia members can be just as dangerous or more than an encounter with pirates. See the lists below for examples, or add them directly to your game.
 

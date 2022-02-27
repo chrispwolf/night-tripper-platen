@@ -8,7 +8,7 @@ Night Tripper is a starting point. A set of light and modular tools, rules and p
 
 Night Tripper is not original. If you are familiar with the earliest 2d6 interstellar role-playing games, you'll recognize a lineage. Night Tripper aspires to that spirit of improvisation, open-endedness and malleability.
 
-The players create and pursue their own goals in a world sketched out by the referee. The group fills in the details of the world over time. Ideally, most of the time the referee is following the players' lead and responding to them, not the other way around.
+The players create and pursue their own goals in a world sketched out by the referee. The group fills in the details of the world over time. Ideally, the referee is responding to the players and following their lead in play, not the reverse.
 
 The referee adjudicates fictional outcomes and applies rules as necessary. If something comes up and the rest of the table thinks the referee is full of it, the referee is wrong.
 

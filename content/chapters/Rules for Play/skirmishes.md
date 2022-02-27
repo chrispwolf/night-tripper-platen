@@ -27,7 +27,7 @@ PC's can avoid a wound by reducing their current luck by the impact of the attac
 
 Armor ignores damage from one attack of the wearer's choosing, then must be replaced.
 
-Laser weapons shoot beams of focused light, and armor cannot be used against them.
+Laser weapons shoot beams of focused light, and armor is useless against them.
 
 ## Skirmish Actions
 ### Talking

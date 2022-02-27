@@ -13,7 +13,7 @@ One credit represents a significant expense. It costs one credit to live in a st
 
 Travel between star systems is measured in weeks. During a week in port the PC's can pursue opportunities, trade commodities and encounter the locals. Extensive starship repairs are measured in weeks. 
 
-One month is four weeks, and a year is 12 months.
+One month is four weeks, and one year is 12 months.
 
 ## Equipment
 The following are lists of equipment and their costs. Listed costs assume the item is readily available on a world. For worlds with a very low Tech attribute, costs may be much higher for technological items. Other events in the campaign like blockades or trade disputes may also affect the costs of equipment, at the referee's discretion.
@@ -26,14 +26,16 @@ The following are lists of equipment and their costs. Listed costs assume the it
 * A cutting laser
 * Etc.
 
-### Weapon Costs
+### Weapon & Armor Costs
 * Pistols, Scatterguns: 1 Credit
 * Carbines, Long Rifles: 10 Credits
 * Laser Pistols: 100 Credits
 * Laser Carbines, Laser Long Rifles: 200 Credits
+* Conspicuous body armor: 10 credits
+* Concealed body armor (woven into a coat, etc): 100 Credits
 
 ### Vehicles
-* Ground Car: 20 Credits
+* Ground Car: 30 Credits
 * Hover Skiff: 100 Credits
 * Armored Transport: 200 Credits
 * Orbital Shuttle: 500 Credits
@@ -43,6 +45,6 @@ Worlds with a Technology attribute of 3 or more have a dedicated star port. In p
 
 Ports charge a standard docking fee of 1 Credit per week. Additionally, personal lifestyle expenses for PCs cost 1 Credit per week per person.
 
-Starship repairs cost 5 credits per point of damage, plus 10 credits if the component was destroyed. A damaged gate core costs 20 credits to repair. A destroyed gate core costs 50 credits to replace. It takes 1 week to repair all damaged components. Each replaced destroyed component adds one additional week to repair times. For example, a ship repairing its systems and guns, and replacing its gate core takes 2 weeks to repair.
+Starship repairs cost 5 credits per point of damage, plus 10 credits if the component was destroyed. A damaged gate core costs 20 credits to repair. A destroyed gate core costs 50 credits to replace. It takes 1 week to repair all damaged components. Each replaced destroyed component adds one additional week to repair times. For example, a ship repairing its damaged systems and guns, and replacing its gate core takes 2 weeks to repair.
 
-Starship fuel costs 1 credit to fill your tank (4 fuel)
+Starship fuel costs 1 credit for 2 units of fuel.
