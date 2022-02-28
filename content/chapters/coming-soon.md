@@ -8,8 +8,8 @@ title: "Upcoming Features"
 ## Priorities
 Planned additions to Night Tripper, coming soon.
 * Randomized starting personal items for PCs
-* Tables of example trade goods in each category.
-* More insider and outsider encounters.
+* Tables of example trade goods in each category
+* More insider and outsider encounters
 * Example VIPs
 * Example opportunities
 * An example star map to launch or inspire your campaign
@@ -18,6 +18,4 @@ Planned additions to Night Tripper, coming soon.
 Potential features, down the road a ways.
 * Automated character generator?
 * Automated star map generator?
-* An Editor?
-* Art?
-* A book?
+* An editor?

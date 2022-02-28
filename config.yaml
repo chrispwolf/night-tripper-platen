@@ -3,7 +3,7 @@
 baseURL: https://night-tripper.netlify.app/
 title: Night Tripper
 # Google Analytics: uncomment and replace with your own code if you want to use this
-# googleAnalytics: G-123ABC456D
+googleAnalytics: G-WVQFVLDDWM
 
 module:
   # Dev use only! Do not uncomment unless you're modifying a theme module!
