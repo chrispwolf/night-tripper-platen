@@ -27,10 +27,8 @@ body {
     ul, li {
         margin: 1rem 0;
     }
-    p a {
+    a, a:visited {
         text-decoration: underline;
-    }
-    p a, p a:visited {
         color: #910A33
     }
 }
