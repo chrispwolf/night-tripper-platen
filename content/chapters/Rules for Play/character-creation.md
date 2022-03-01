@@ -80,22 +80,22 @@ Before the game starts, discuss your personal and group goals with the other pla
 | Roll | Item | Roll | Item |
 |------|------|------|------|
 | 11 | A silver pocket watch, showing the time on a distant world | 41 | A pet rodent, small enough to fit in your pocket |
-| 12 | A signet ring of a fallen noble house | 42 | A cookbook |
+| 12 | A signet ring of a fallen noble house | 42 | A stained cookbook |
 | 13 | A ceremonial crystal knife | 43 | A bottle of perfume |
 | 14 | A large belt buckle shaped like the face of a snarling feline | 44 | A letter in a sealed, tear-stained envelope |
 | 15 | The tooth of a large carnivore on a loop of leather | 45 | Watercolor paints, a brush and a sheaf of paper |
 | 16 | An eye patch | 46 | A handmade string instrument |
-| 21 | Whale-fur cape | 51 | A drawtring bag of laquered divination chits |
-| 22 | Well-worn hydrocycler suit, with filters that need replacing | 52 | A box of fine tea |
+| 21 | Whale-fur cape | 51 | A drawstring bag of laquered divination chits |
+| 22 | Hydrocycler suit in need of new filters | 52 | A box of fine tea |
 | 23 | An ivory comb | 53 | A pipe and tobacco |
-| 24 | A small makeup kit | 54 | A costume necklace, cheap but pretty |
+| 24 | A makeup kit | 54 | A costume jewelry necklace |
 | 25 | A hip flask | 55 | A small tin of expensive fish roe |
-| 26 | A gilded snuffbox | 56 | A bottle of hot sauce |
+| 26 | A gilded snuffbox | 56 | Half-full bottle of hot sauce |
 | 31 | A replica sword | 61 | A hand-thrown clay coffee cup |
-| 32 | A datastick containing every season of "Lovers and Singularities" | 62 | A stone statuette of Saint Leanna, friend to travelers |
+| 32 | A datastick containing every season of "Lovers and Singularities" | 62 | An inch-tall statuette of a saint |
 | 33 | A salamander-skin vest | 63 | A loop of plastic prayer beads |
 | 34 | A portable gaming console | 64 | A worn copy of *Practical Astrology, 12th Edition* | 
-| 35 | A maple bonsai, a spool of wire and pruning shears | 65 | A new copy of *13 Daily Practices of Effective Leaders* |
+| 35 | gardening gloves and pruning shears | 65 | A new copy of *13 Daily Practices of Effective Leaders* |
 | 36 | A deck of cards, gambling chips, and dice | 66 | *The Handbook of Approved Mantras* | 
 
 
