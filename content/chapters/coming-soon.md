@@ -7,7 +7,6 @@ title: "Upcoming Features"
 
 ## Priorities
 Planned additions to Night Tripper, coming soon.
-* Randomized starting personal items for PCs
 * Tables of example trade goods in each category
 * More insider and outsider encounters
 * Example VIPs
