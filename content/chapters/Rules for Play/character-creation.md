@@ -17,7 +17,7 @@ Use an index card to keep a record of your character.
 
 5. When you gain the Weapon skill, choose a specific weapon, like scattergun or cutlass. When you gain the Science skill, choose a specific field, like chemistry or biology. When you gain the Vehicle skill, choose a specific vehicle class, like flyer or antigrav.
 
-6. Invent the details of your Past Life based on your skills and the setting. Who was this person? Discuss it with the referee.
+6. Roll a random personal item
 
 7. Roll a random Birth Month. Examples given are for the imperial calendar. The corresponding personality trait represents general beliefs about people born in that month. Use it as a role-playing prompt. Lean into it, play against it, or ignore it as you like. 
 
@@ -27,7 +27,9 @@ Use an index card to keep a record of your character.
 
 10. Roll a number of d6's equal do the decade of your age and add them together. Start play with that many credits.
 
-11. Name your character.
+11. Invent the details of your Past Life based on your character details and the setting. Who was this person before the game? Discuss it with the referee.
+
+12. Name your character & give them one strong physical detail.
 
 Before the game starts, discuss your personal and group goals with the other players, help drive the initial action. Give the referee something to respond to. If you start with a ship and a shared debt, you may want to figure out how to make next month's payment.
 
@@ -73,6 +75,32 @@ Before the game starts, discuss your personal and group goals with the other pla
 4. Combat
 5. Vehicle
 6. Choose from 1–5, increase Past Life Rank
+
+## Personal Items (D66)
+| Roll | Item | Roll | Item |
+|------|------|------|------|
+| 11 | A silver pocket watch, showing the time on a distant world | 41 | A pet rodent, small enough to fit in your pocket |
+| 12 | A signet ring of a fallen noble house | 42 | A cookbook |
+| 13 | A ceremonial crystal knife | 43 | A bottle of perfume |
+| 14 | A large belt buckle shaped like the face of a snarling feline | 44 | A letter in a sealed, tear-stained envelope |
+| 15 | The tooth of a large carnivore on a loop of leather | 45 | Watercolor paints, a brush and a sheaf of paper |
+| 16 | An eye patch | 46 | A handmade string instrument |
+| 21 | Whale-fur cape | 51 | A drawtring bag of laquered divination chits |
+| 22 | Well-worn hydrocycler suit, with filters that need replacing | 52 | A box of fine tea |
+| 23 | An ivory comb | 53 | A pipe and tobacco |
+| 24 | A small makeup kit | 54 | A costume necklace, cheap but pretty |
+| 25 | A hip flask | 55 | A small tin of expensive fish roe |
+| 26 | A gilded snuffbox | 56 | A bottle of hot sauce |
+| 31 | A replica sword | 61 | A hand-thrown clay coffee cup |
+| 32 | A datastick containing every season of "Lovers and Singularities" | 62 | A stone statuette of Saint Leanna, friend to travelers |
+| 33 | A salamander-skin vest | 63 | A loop of plastic prayer beads |
+| 34 | A portable gaming console | 64 | A worn copy of *Practical Astrology, 12th Edition* | 
+| 35 | A maple bonsai, a spool of wire and pruning shears | 65 | A new copy of *13 Daily Practices of Effective Leaders* |
+| 36 | A deck of cards, gambling chips, and dice | 66 | *The Handbook of Approved Mantras* | 
+
+
+
+
 
 
 
