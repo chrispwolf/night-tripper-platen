@@ -1,6 +1,7 @@
 ---
 weight: 2
 title: "World Details"
+bookToC: true
 ---
 
 # World Details
