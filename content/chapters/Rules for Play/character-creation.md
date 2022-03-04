@@ -72,7 +72,7 @@ Before the game starts, discuss your personal and group goals with the other pla
 1. Computer
 2. Science
 3. Medic
-4. Combat
+4. Weapon
 5. Vehicle
 6. Choose from 1–5, increase Past Life Rank
 
