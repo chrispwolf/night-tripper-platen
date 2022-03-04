@@ -16,6 +16,8 @@ The referee creates several worlds, stocking them with opportunities for the pla
 
 To play you will need at least two six-sided dice (d6), index cards, and pencils.
 
+Certain rules call for using a 3-sided die (d3). In these cases, roll 1d6. A roll of 1–2 is 1, 3–4 is 2, 5–6 is 3.
+
 Some tables call for using a 12-sided die (d12). To get a random number from one to twelve on six-sided dice, first roll one die, then another. If the second roll is even number, use the first roll as-is. If odd, add six to the first roll. For example, read a roll of 5 and 6 as 5, and a roll of 3 and 1 as 9.
 
 Other tables call for using a "d66," in this case, use 2d6, with one designated as the tens digit and the other as the ones digit. For example, read a roll of 3 and 4 as 34.
@@ -28,7 +30,7 @@ If one of a player character's skills or Characteristics is relevant to the task
 Sometimes successful throws can have additional effects, measured in Impact. A throw has an Impact equal to the total result minus 7. Impact is used chiefly for damage in combat, but can also be used to represent complex, time-consuming tasks. For example, if a character is attempting to hack into a database during a tense combat situation, the referee might require them to accrue a total of 3 cumulative Impact, rolling once each skirmish round.
 
 ## Physical Characteristics & Skills
-PCs have two physical characteristics. Strength is power and endurance. Agility is quickness and coordination.
+PCs have two physical Characteristics. Strength is power and endurance. Agility is quickness and coordination.
 
 PCs also have skill in specific areas of expertise. A rank of 1 in a skill is baseline professional knowledge. A rank of 3 is a career's worth of expertise. Ranks of 4 or higher are exceptional. 
 

@@ -13,7 +13,7 @@ Use an index card to keep a record of your character.
 
 3. Your Past Life's rank starts at 1.
 
-4. Take a number of dice equal to the tens digit of your age. Split them between one or two skill groups below. Gain new rolled skills at rank 1, or increase existing rolled skills by 1. On a 6 choose to gain or improve any skill from the corresponding group, and increase your Past Life rank by 1.
+4. Get a number of dice equal to the tens digit of your age. One die at a time, choose a skill group below and then roll the die. If you don't have the skill indicated by the rolled number, gain the skill at rank 1. If you do have the skill, increase its rank by 1. On a roll of 6, choose one skill from the group and increase your past life's rank by 1. You may roll all the dice in the same skill group, or split them between two groups.
 
 5. When you gain the Weapon skill, choose a specific weapon, like scattergun or cutlass. When you gain the Science skill, choose a specific field, like chemistry or biology. When you gain the Vehicle skill, choose a specific vehicle class, like flyer or antigrav.
 
@@ -27,14 +27,14 @@ Use an index card to keep a record of your character.
 
 10. Roll a number of d6's equal do the decade of your age and add them together. Start play with that many credits.
 
-11. Invent the details of your Past Life based on your character details and the setting. Who was this person before the game? Discuss it with the referee.
+11. Invent the details of your Past Life based on your character details and the setting. Who was this person before the game? Discuss it with the referee. Give your Past Life a title and note it along with your Past Life rank. For example, a player whose character's skills come from the Spacer and Merchant groups might decide they were a smuggler. If their Past Life rank was 2, they'd write "Smuggler 2" on their character card.
 
 12. Name your character & give them one strong physical detail.
 
 Before the game starts, discuss your personal and group goals with the other players, help drive the initial action. Give the referee something to respond to. If you start with a ship and a shared debt, you may want to figure out how to make next month's payment.
 
-## Determination of Physical Characteristics
-| Roll 2d6 - Tens Digit of Age | Characteristic Rank |
+## Physical Characteristics
+| Roll 2d6 - tens digit of age | Characteristic rank |
 |------------------------------|---------------------|
 | 3 or less                    | 0                   |
 | 4–5                          | 1                   |
@@ -77,7 +77,7 @@ Before the game starts, discuss your personal and group goals with the other pla
 6. Choose from 1–5, increase Past Life Rank
 
 ## Personal Items (D66)
-| Roll | Item | Roll | Item |
+| Roll(d66) | Item | Roll(d66) | Item |
 |------|------|------|------|
 | 11 | A silver pocket watch, showing the time on a distant world | 41 | A pet rodent, small enough to fit in your pocket |
 | 12 | A signet ring of a fallen noble house | 42 | A stained cookbook |

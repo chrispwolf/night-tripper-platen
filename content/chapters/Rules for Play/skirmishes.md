@@ -27,7 +27,7 @@ PC's can avoid a Wound by reducing their current luck by the impact of the attac
 
 Armor ignores damage from one attack of the wearer's choosing, then must be replaced.
 
-Laser weapons shoot beams of focused light, and render conventional armor is useless.
+Laser weapons shoot beams of focused light, and render conventional armor useless.
 
 ## Skirmish Actions
 ### Talking
