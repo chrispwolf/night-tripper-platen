@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Referee Tools on Night Tripper</title>
+    <link>https://night-tripper.netlify.app/chapters/Referee-Tools/</link>
+    <description>Recent content in Referee Tools on Night Tripper</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://night-tripper.netlify.app/chapters/Referee-Tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Interstellar Cartography</title>
+      <link>https://night-tripper.netlify.app/chapters/Referee-Tools/interstellar-cartography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Referee-Tools/interstellar-cartography/</guid>
+      <description>Interstellar Cartography Worlds Worlds are described by four attributes, each ranked from 1 to 6.
+ Habitability: The capacity of the world to comfortably sustain human life. Population: The number of people living on the world. Authority: The strength and presence of legal authority on the world. Technology: How common and accessible advanced technology and manufacturing is on the world.  Preparing a Star Map Before a game the referee may map a small interstellar volume for play.</description>
+    </item>
+    
+    <item>
+      <title>World Details</title>
+      <link>https://night-tripper.netlify.app/chapters/Referee-Tools/world-details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Referee-Tools/world-details/</guid>
+      <description>World Details Once you&amp;rsquo;ve made a basic map of several worlds and their attributes, flesh out each world with the following details. World details will inform each other, and details added to one world may lead you to change details on another. Let the process be iterative, and your worlds will feel more deeply connected to one another.
+Imports and Exports Based on the world&amp;rsquo;s attributes, which types of goods are in supply and which are in demand?</description>
+    </item>
+    
+    <item>
+      <title>Encounters</title>
+      <link>https://night-tripper.netlify.app/chapters/Referee-Tools/encounters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Referee-Tools/encounters/</guid>
+      <description>Encounters As stated in the Starships &amp;amp; Travel rules, the referee rolls 1d6 each time the players enter or leave a star system, and once per week when traveling within a system. If the roll is equal to or less than the world&amp;rsquo;s Population attribute, an encounter occurs. The referee must determine who the players encounter, and the disposition of the encountered vessel.
+Encounter Lists Before play, prepare a list of encounters for each world, numbered from 1 to 6.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rules for Play on Night Tripper</title>
+    <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/</link>
+    <description>Recent content in Rules for Play on Night Tripper</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://night-tripper.netlify.app/chapters/Rules-for-Play/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Core</title>
+      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/core/</guid>
+      <description>Core A Long Fall Ancient beyond memory and long assumed unassailable, the Empire&amp;rsquo;s kiloparsec reach finally exceeded its grasp. Now in the time of its extended decline comes a reordering. Worlds struggle between themselves to survive the dying convulsions of a decaying hegemony. Strife brings opportunity and danger.
+Fundamentals Night Tripper is a collection of rules and tools for interstallar adventure role-play campaigns in the traditional style. For one referee and any number of players.</description>
+    </item>
+    
+    <item>
+      <title>Character Creation</title>
+      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/character-creation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/character-creation/</guid>
+      <description>Character Creation Use an index card to keep a record of your character.
+  Roll your character&amp;rsquo;s age: 2d6x5 years. Minimum 20. Your current and maximum Luck is 12 minus the tens digit of your age (e.g. a 35-year-old character has a starting Luck of 9/9).
+  Roll 2d6 each for your Strength and Agility characteristics, and subtract the tens digit of your age to each 2d6 roll. Compare each result on the table below and note their physical characteristic ranks.</description>
+    </item>
+    
+    <item>
+      <title>Logistics</title>
+      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/logistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/logistics/</guid>
+      <description>Logistics Time &amp;amp; Money The basic unit of currency in Night Tripper is one credit. The basic unit of time is one week.
+One credit represents a significant expense. It costs one credit to live in a starport for a week, including food and lodging. You could also spend one credit on a particularly extravagant dinner.
+Travel between star systems is measured in weeks. During a week in port the PC&amp;rsquo;s can pursue opportunities, trade commodities and encounter the locals.</description>
+    </item>
+    
+    <item>
+      <title>Skirmishes</title>
+      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/skirmishes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/skirmishes/</guid>
+      <description>Skirmishes When a fight is simple, resolve it with a single throw. If the outcome is a foregone conclusion, just say what happens. For more complex skirmishes, use these rules.
+Rounds When a skirmish breaks out, order the game into rounds. Each character may perform one action in a round. actions are performed in the following order:
+ Talking Melee attacks: advantaged, matched, then disadvantaged Movement Miscellaneous Ranged attacks, in order shown on the ranged attack chart  Characters performing the same action do it simultaneously.</description>
+    </item>
+    
+    <item>
+      <title>Starships &amp; Travel</title>
+      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/starships-travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/starships-travel/</guid>
+      <description>Starships &amp;amp; Travel These rules cover small craft like light freighters, gunboats and pleasure yachts. Capitals and other large ships should be treated as set pieces and terrain. You won&amp;rsquo;t win in a fight against them.
+The players may start with a starship. If they do, they are likely in debt for the full cost to a bank, loan shark, ship manufacturer, or other entity. Standard loan repayment terms are 1.</description>
+    </item>
+    
+    <item>
+      <title>Orbital Combat</title>
+      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/orbital-combat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/orbital-combat/</guid>
+      <description>Orbital Combat Fighting in space frequently involves one side trying to get to a certain point and another side trying to stop them.
+Start by establishing the distance between combatants and the Goal Location. The most common distance is 4, the distance between a stellar object and its safe gate perimeter. Roll 2d3 for a random distance.
+If the objective of the fight does not involve a race to a specific location, be sure to declare a victory condition / end state for each side.</description>
+    </item>
+    
+    <item>
+      <title>Trade</title>
+      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/trade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/trade/</guid>
+      <description>Trade Most interstellar trade and shipping is carried out by immense freighters, contracted by the Guilds. However, small independent vessels can turn a regular profit by speculating on expensive goods, buying low and selling high.
+There are four broad categories of trade goods, each corresponding to one world attribute. Use the table below to determine the local price of a trade good category. Goods in demand on a world cost 4d6 credits per load.</description>
+    </item>
+    
+  </channel>
+</rss>

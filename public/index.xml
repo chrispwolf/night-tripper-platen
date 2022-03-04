@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Night Tripper</title>
+    <link>https://night-tripper.netlify.app/</link>
+    <description>Recent content in Home on Night Tripper</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://night-tripper.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Foreward</title>
+      <link>https://night-tripper.netlify.app/chapters/foreward/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/foreward/</guid>
+      <description>Foreward Night Tripper is a starting point. A set of light and modular tools, rules and procedures. Use them as written only as long as they serve your shared goals. Hack, expand, and repurpose them without hesitation. They assume a group of three or more, with one person acting as Referee and the others as players controlling individual characters.
+Night Tripper is not original. If you are familiar with the earliest 2d6 interstellar role-playing games, you&amp;rsquo;ll recognize a lineage.</description>
+    </item>
+    
+    <item>
+      <title>Core</title>
+      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/core/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/core/</guid>
+      <description>Core A Long Fall Ancient beyond memory and long assumed unassailable, the Empire&amp;rsquo;s kiloparsec reach finally exceeded its grasp. Now in the time of its extended decline comes a reordering. Worlds struggle between themselves to survive the dying convulsions of a decaying hegemony. Strife brings opportunity and danger.
+Fundamentals Night Tripper is a collection of rules and tools for interstallar adventure role-play campaigns in the traditional style. For one referee and any number of players.</description>
+    </item>
+    
+    <item>
+      <title>Interstellar Cartography</title>
+      <link>https://night-tripper.netlify.app/chapters/Referee-Tools/interstellar-cartography/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Referee-Tools/interstellar-cartography/</guid>
+      <description>Interstellar Cartography Worlds Worlds are described by four attributes, each ranked from 1 to 6.
+ Habitability: The capacity of the world to comfortably sustain human life. Population: The number of people living on the world. Authority: The strength and presence of legal authority on the world. Technology: How common and accessible advanced technology and manufacturing is on the world.  Preparing a Star Map Before a game the referee may map a small interstellar volume for play.</description>
+    </item>
+    
+    <item>
+      <title>Character Creation</title>
+      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/character-creation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/character-creation/</guid>
+      <description>Character Creation Use an index card to keep a record of your character.
+  Roll your character&amp;rsquo;s age: 2d6x5 years. Minimum 20. Your current and maximum Luck is 12 minus the tens digit of your age (e.g. a 35-year-old character has a starting Luck of 9/9).
+  Roll 2d6 each for your Strength and Agility characteristics, and subtract the tens digit of your age to each 2d6 roll. Compare each result on the table below and note their physical characteristic ranks.</description>
+    </item>
+    
+    <item>
+      <title>World Details</title>
+      <link>https://night-tripper.netlify.app/chapters/Referee-Tools/world-details/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Referee-Tools/world-details/</guid>
+      <description>World Details Once you&amp;rsquo;ve made a basic map of several worlds and their attributes, flesh out each world with the following details. World details will inform each other, and details added to one world may lead you to change details on another. Let the process be iterative, and your worlds will feel more deeply connected to one another.
+Imports and Exports Based on the world&amp;rsquo;s attributes, which types of goods are in supply and which are in demand?</description>
+    </item>
+    
+    <item>
+      <title>Encounters</title>
+      <link>https://night-tripper.netlify.app/chapters/Referee-Tools/encounters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Referee-Tools/encounters/</guid>
+      <description>Encounters As stated in the Starships &amp;amp; Travel rules, the referee rolls 1d6 each time the players enter or leave a star system, and once per week when traveling within a system. If the roll is equal to or less than the world&amp;rsquo;s Population attribute, an encounter occurs. The referee must determine who the players encounter, and the disposition of the encountered vessel.
+Encounter Lists Before play, prepare a list of encounters for each world, numbered from 1 to 6.</description>
+    </item>
+    
+    <item>
+      <title>Logistics</title>
+      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/logistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/logistics/</guid>
+      <description>Logistics Time &amp;amp; Money The basic unit of currency in Night Tripper is one credit. The basic unit of time is one week.
+One credit represents a significant expense. It costs one credit to live in a starport for a week, including food and lodging. You could also spend one credit on a particularly extravagant dinner.
+Travel between star systems is measured in weeks. During a week in port the PC&amp;rsquo;s can pursue opportunities, trade commodities and encounter the locals.</description>
+    </item>
+    
+    <item>
+      <title>Upcoming Features</title>
+      <link>https://night-tripper.netlify.app/chapters/coming-soon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/coming-soon/</guid>
+      <description>Upcoming Features Priorities Planned additions to Night Tripper, coming soon.
+ Tables of example trade goods in each category More insider and outsider encounters Example VIPs Example opportunities An example star map to launch or inspire your campaign  Musings Potential features, down the road a ways.
+ Automated character generator? Automated star map generator? An editor?  </description>
+    </item>
+    
+    <item>
+      <title>Inspirations</title>
+      <link>https://night-tripper.netlify.app/chapters/inspirations/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/inspirations/</guid>
+      <description>Inspiration Role-playing:  Traveller, by Marc Miller Troika, by Daniel Sell Into the Odd, by Chris McDowall Tunnel Goons by Nate Treme Pacts &amp;amp; Blades by Lucas Rolim Luke Gearing&amp;rsquo;s blog  Novels:  Consider Phlebas by Iain M. Banks Ancillary Justice by Ann Leckie Ninefox Gambit by Yoon-Ha Lee  Illustration &amp;amp; Painting:  Science fiction characters by Alain Gruetter Paintings by John Harris  Music This eclectic and growing Spotify playlist I made.</description>
+    </item>
+    
+    <item>
+      <title>Skirmishes</title>
+      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/skirmishes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/skirmishes/</guid>
+      <description>Skirmishes When a fight is simple, resolve it with a single throw. If the outcome is a foregone conclusion, just say what happens. For more complex skirmishes, use these rules.
+Rounds When a skirmish breaks out, order the game into rounds. Each character may perform one action in a round. actions are performed in the following order:
+ Talking Melee attacks: advantaged, matched, then disadvantaged Movement Miscellaneous Ranged attacks, in order shown on the ranged attack chart  Characters performing the same action do it simultaneously.</description>
+    </item>
+    
+    <item>
+      <title>Starships &amp; Travel</title>
+      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/starships-travel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/starships-travel/</guid>
+      <description>Starships &amp;amp; Travel These rules cover small craft like light freighters, gunboats and pleasure yachts. Capitals and other large ships should be treated as set pieces and terrain. You won&amp;rsquo;t win in a fight against them.
+The players may start with a starship. If they do, they are likely in debt for the full cost to a bank, loan shark, ship manufacturer, or other entity. Standard loan repayment terms are 1.</description>
+    </item>
+    
+    <item>
+      <title>Orbital Combat</title>
+      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/orbital-combat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/orbital-combat/</guid>
+      <description>Orbital Combat Fighting in space frequently involves one side trying to get to a certain point and another side trying to stop them.
+Start by establishing the distance between combatants and the Goal Location. The most common distance is 4, the distance between a stellar object and its safe gate perimeter. Roll 2d3 for a random distance.
+If the objective of the fight does not involve a race to a specific location, be sure to declare a victory condition / end state for each side.</description>
+    </item>
+    
+    <item>
+      <title>Trade</title>
+      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/trade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/trade/</guid>
+      <description>Trade Most interstellar trade and shipping is carried out by immense freighters, contracted by the Guilds. However, small independent vessels can turn a regular profit by speculating on expensive goods, buying low and selling high.
+There are four broad categories of trade goods, each corresponding to one world attribute. Use the table below to determine the local price of a trade good category. Goods in demand on a world cost 4d6 credits per load.</description>
+    </item>
+    
+    <item>
+      <title>Forward</title>
+      <link>https://night-tripper.netlify.app/forward/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/forward/</guid>
+      <description>Forward Night Tripper is a starting point. A set of light and modular tools, rules and procedures. Use them as written only as long as they serve your shared goals. Hack, expand, and repurpose them without hesitation. They assume a group of three or more, with one person acting as Referee and the others as players controlling individual characters.
+Night Tripper is not original. If you are familiar with the earliest 2d6 interstellar role-playing games, you&amp;rsquo;ll recognize a lineage.</description>
+    </item>
+    
+  </channel>
+</rss>

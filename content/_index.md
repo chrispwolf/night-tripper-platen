@@ -2,8 +2,9 @@
 title: "Home"
 ---
 
-# Night Tripper
-## Interstellar Adventure Role-Play (BETA)
+<h1 class="index-title">Night Tripper</h1>
+
+## Interstellar Adventure Role-Play (beta)
 ### By Chris P Wolf
 
 Night Tripper is a lightweight set of rules for interstellar science fiction role-playing games. It is inspired by the original 2d6 sci-fi game of the 1970s, and attempts to capture the same spirit of improvisation and open-ended possibility, while reducing bookkeeping and cognitive load on the referee.

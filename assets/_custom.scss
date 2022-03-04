@@ -22,6 +22,28 @@ body {
 //     padding: 1px 2px;
 // }
 
+h1 {
+    // text-transform: uppercase;
+    font-weight: 700!important;
+    // text-align: center;
+    font-size: 2.5rem;
+    padding-bottom: 1rem;
+    margin-bottom: 1.5rem!important;
+    border-bottom: 2px solid;
+    // display: inline-block;
+    margin: 0 auto;
+    &.index-title {
+        @media(min-width: 897px) {
+            // display: none;
+        }
+    }
+
+}
+
+h2, h3, h4 {
+    font-weight: bold!important;
+}
+
 .markdown {
     max-width: 650px;
     ul, li {
@@ -30,6 +52,9 @@ body {
     a, a:visited {
         text-decoration: underline;
         color: #910A33
+    }
+    @media(max-width: 896px) {
+        padding-top: 2rem;
     }
 }
 
@@ -63,6 +88,14 @@ body {
     transition: border-color .33s, color .33s;
     border-bottom: 2px solid white;
     display: inline;
+}
+
+.book-header {
+    @media(max-width: 896px) {
+        strong {
+            display: none;
+        }
+    }
 }
 
 .book-menu {
