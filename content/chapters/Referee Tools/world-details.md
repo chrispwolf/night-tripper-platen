@@ -41,7 +41,7 @@ Based on the world's attributes, which types of goods are in supply and which ar
 | 11 - 12 | Subversive zines | 41 - 42 | Books of heretical mantras |
 | 13 - 14 | Obscene holotapes | 43 - 44 | Astral mushrooms |
 | 15 - 16 | Moonshine | 45 - 46 | Organs |
-| 21 - 22 | Stolen artifacts | 51 - 52 | Ivory |
+| 21 - 22 | Stolen artifacts | 51 - 52 | Whale fur |
 | 23 - 24 | Invasive plant species | 53 - 54 | Illegal pets |
 | 25 - 26 | Gun parts | 55 - 56 | Joltleaf powder |
 | 31 - 32 | Vials of slowdown | 61 - 62 | Combat stim hyposprays |
