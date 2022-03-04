@@ -36,7 +36,7 @@ Based on the world's attributes, which types of goods are in supply and which ar
 | 35 - 36 | Handmade Puzzles | 65 - 66 | Tabletop Games |
 
 ### Example Contraband Goods
-| Roll(d66) | NPC | Roll(d66) | NPC |
+| Roll(d66) | Good | Roll(d66) | Good |
 |-----------|-----|-----------|-----|
 | 11 - 12 | Subversive zines | 41 - 42 | Books of heretical mantras |
 | 13 - 14 | Obscene holotapes | 43 - 44 | Astral mushrooms |
