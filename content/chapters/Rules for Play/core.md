@@ -37,10 +37,10 @@ PCs also have skill in specific areas of expertise. A rank of 1 in a skill is ba
 For complex technical tasks, a PC will automatically fail if they don't have the skill at all. For example a PC without any ranks of medic simply cannot perform brain surgery without killing the patient.
 
 
-## Past Lives
-During character creation each player will describe a Past Life for their character based on their skill groups and specific skills. For example, a player whose character has skills in the spacer and soldier groups might decide that the character was an orbital marine.
+## Careers
+During character creation each player will describe a Career for their character based on their skill groups and specific skills. For example, a player whose character has skills in the spacer and soldier groups might decide that the character was an orbital marine.
 
-PCs have a rank in their Past Life, representing prestige earned and contacts made. During play, a PC may add their Past Life rank to throws for networking tasks, like locating and requesting help from contacts.
+PCs have a rank in their Career, representing prestige earned and contacts made. During play, a PC may add their Career rank to throws for networking tasks, like locating and requesting help from contacts.
 
 ## Luck
 PCs have a resource called Luck. Players track their current and maximum luck. They'll have 7/9 or 10/10 Luck, for example.

@@ -56,6 +56,15 @@ h2, h3, h4 {
     @media(max-width: 896px) {
         padding-top: 2rem;
     }
+    .grid {
+        @media(min-width: 651px) {
+            display: flex;
+            gap: 2rem;
+            > .col-6 {
+                width: 50%;
+            }
+        }
+    }
 }
 
 .book-brand {
