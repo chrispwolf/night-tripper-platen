@@ -7,10 +7,8 @@ title: "Upcoming Features"
 
 ## Priorities
 Planned additions to Night Tripper, coming soon.
-* Tables of example trade goods in each category
 * More insider and outsider encounters
-* Example VIPs
-* Example opportunities
+* Opportunity generation tables
 * An example star map to launch or inspire your campaign
 
 ## Musings
