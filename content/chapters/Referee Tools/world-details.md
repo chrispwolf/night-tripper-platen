@@ -82,7 +82,7 @@ Describe one or two important NPCs in about a sentence each. These are often peo
 ## Opportunities
 Write at least one opportunity for the PCs. Just a couple sentences describing a job somebody wants done, or a rumor about how a profit can be made. If you need NPCs for the opportunity, give them names and a Skill rank. If you have purchased or written adventures, include hooks to them here.
 
-## Visuals:
+## Visuals
 Come up with one or two strong visual details to capture the feeling of the world, use these in play to describe the world to the players. A binary sunset reflecting off gleaming towers. A moldering mountain of cast-off ancient tech. Ancient temple ruins choked under the roots of a great tree. A warren of cramped tunnels under a radiation-soaked surface. A local knight riding a giant flightless bird. Decadent nobles in a hovering skiff, watching peasants toil in the fields below.
 
 Before the first session, keep these details as brief as possible. Just one or two sentences each. The players might latch onto any particular detail and make the whole game about that. Follow their lead, add details as necessary between sessions. If you play old-school dungeon games, consider giving each world no more detail than you might give an important room in a dungeon. The scale is just zoomed out.

@@ -41,20 +41,31 @@ The following are lists of equipment and their costs. Listed costs assume the it
 * Armored transport: 200 credits
 * Orbital shuttle: 500 credits
 
-## Ports &  Ship Expenses
+## Ports
 Worlds with a Technology attribute of 3 or more have a dedicated star port. In port, PCs can purchase equipment, repair their ship, and look for new opportunities.
 
-Ports charge a standard docking fee of 1 credit per week. Additionally, personal lifestyle expenses for PCs cost 1 credit per week per person.
+### Weekly Expenses
+* 1 credit docking fee
+* 1 credit/person lifestyle expenses
 
-Starship repairs cost 5 credits per point of damage, plus 10 credits if the component was destroyed. A damaged gate core costs 20 credits to repair. A destroyed gate core costs 50 credits to replace. It takes 1 week to repair all damaged components. Each replaced destroyed component adds one additional week to repair times. For example, a ship repairing its damaged systems and guns, and replacing its gate core takes 2 weeks to repair.
+### Starship Repair Costs
+* Per point of damage, for each component: 1 credit
+* Per destroyed component: +10 Credits
+* Damaged gate core: 20 credits
+* Destroyed gate core: 50 credits
 
+### Starship Repair Time
+* All damaged components: 1 week
+* Per destroyed component: +1 week
+
+**Refueling**
 Starship fuel costs 1 credit for 2 units of fuel.
 
 ## Hiring NPCs
-NPCs can be hired to fill gaps in the PCs' skills, or to perform specific tasks. NPCs will at a minimum expect 1 credit per week per rank of Skill. For highly specialized or dangerous tasks, they may demand as much as double that.
+NPCs will at a minimum expect 1 credit per week per rank of Skill. For highly specialized or dangerous tasks, they may demand as much as double that.
 
 ## Healing
-Removing all Wound conditions requires a number of weeks of appropriate medical care euqual to the Severity of a character's worst Wound. Depending on the nature of the Wounds, these weeks may be inpatient, outpatient or a combination.
+Removing all Wound conditions requires a number of weeks of appropriate medical care euqual to the Severity of a character's worst Wound.
 
 On worlds without free medical care, healing will cost 1 credit per Severity of each healed Wound.
 

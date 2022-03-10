@@ -10,15 +10,15 @@ bookToC: true
 Ancient beyond memory and long assumed unassailable, the Empire's kiloparsec reach finally exceeded its grasp. Now in the time of its extended decline comes a reordering. Worlds struggle between themselves to survive the dying convulsions of a decaying hegemony. Strife brings opportunity and danger.
 
 ## Fundamentals
-Night Tripper is a collection of rules and tools for interstallar adventure role-play campaigns in the traditional style. For one referee and any number of players. Three to five is a good range.
+A collection of rules and tools for interstallar adventure role-play campaigns. For one referee and any number of players; three to five being a good range.
 
-The referee creates several worlds, stocking them with opportunities for the players to pursue and dangers for them to surmount. During play, the referee controls all the non-player characters, creatures and environments. The players describe their characters' actions, and the referee adjudicates the outcome. All the rules in this document are tools to assist this process by injecting unpredictablility or impartiality when desirable.
+The referee creates several worlds stocked them with opportunities for the players to pursue and dangers for them to surmount. During play, the referee describes environments and the actions of non-player characters and creatures. The players describe their characters' actions, and the referee adjudicates outcomes. All the rules in this document are tools to assist this process by injecting unpredictablility or impartiality when desirable.
 
 To play you will need at least two six-sided dice (d6), index cards, and pencils.
 
 Certain rules call for using a 3-sided die (d3). In these cases, roll 1d6. A roll of 1–2 is 1, 3–4 is 2, 5–6 is 3.
 
-Some tables call for using a 12-sided die (d12). To get a random number from one to twelve on six-sided dice, first roll one die, then another. If the second roll is even number, use the first roll as-is. If odd, add six to the first roll. For example, read a roll of 5 and 6 as 5, and a roll of 3 and 1 as 9.
+Some rules call for using a 12-sided die (d12). To get a random number from one to twelve on six-sided dice, first roll one die, then another. If the second roll is even number, use the first roll as-is. If odd, add six to the first roll. For example, read a roll of 5 and 6 as 5, and a roll of 3 and 1 as 9. Or just grab a d12 from your collection.
 
 Other tables call for using a "d66," in this case, use 2d6, with one designated as the tens digit and the other as the ones digit. For example, read a roll of 3 and 4 as 34.
 
@@ -32,13 +32,13 @@ Sometimes successful throws can have additional effects, measured in Impact. A t
 ## Physical Characteristics & Skills
 PCs have two physical Characteristics. Strength is power and endurance. Agility is quickness and coordination.
 
-PCs also have skill in specific areas of expertise. A rank of 1 in a skill is baseline professional knowledge. A rank of 3 is a career's worth of expertise. Ranks of 4 or higher are exceptional. 
+PCs also have skills in specific areas of expertise. A rank of 1 in a skill is baseline professional knowledge. A rank of 3 is a career's worth of expertise. Ranks of 4 or higher are exceptional. 
 
-For complex technical tasks, a PC will automatically fail if they don't have the skill at all. For example a PC without any ranks of medic simply cannot perform brain surgery without killing the patient.
+For complex technical tasks, a PC will automatically fail if they don't have the skill at all. For example a PC without any ranks of Medic simply cannot perform brain surgery without killing the patient.
 
 
 ## Careers
-During character creation each player will describe a Career for their character based on their skill groups and specific skills. For example, a player whose character has skills in the spacer and soldier groups might decide that the character was an orbital marine.
+During character creation each player will describe a Career for their character based on their skill groups and specific skills. For example, a player whose character has skills in the Spacer and Soldier groups might decide that the character was an orbital marine.
 
 PCs have a rank in their Career, representing prestige earned and contacts made. During play, a PC may add their Career rank to throws for networking tasks, like locating and requesting help from contacts.
 
@@ -61,4 +61,4 @@ PC's may have multiple Conditions, but they are not cumulative. Only apply the w
 
 
 ## NPCs
-Non-player characters can be described by a single Skill stat, ranked 1 or higher, which they use for all throws that fall under their areas of expertise. The referee may wish to flesh out more important NPCs with a specific list of skills, but this is rarely necessary.
+Non-player characters can be described by a single Skill stat, ranked 1 or higher, which they use for all throws that fall under their areas of expertise. The referee may wish to flesh out more important NPCs with a specific list of skills.
