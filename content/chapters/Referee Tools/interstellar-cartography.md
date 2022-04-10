@@ -146,7 +146,7 @@ Roll 1d6 to determine the strength and unity of legal authority on the world. If
 | 1 | Direct Democracy |
 | 2 | Representative Democracy |
 | 3 | Capitalist Oligarchy |
-| 4 | Religious Dectatorship |
+| 4 | Religious Dictatorship |
 | 5 | Military Dictatorship |
 | 6 | Inherited Nobility |
 
