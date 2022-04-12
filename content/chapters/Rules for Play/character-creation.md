@@ -24,47 +24,76 @@ Roll 2d6 each for your Strength and Agility characteristics, and subtract the te
 ## 3. Career 
 Your Career rank starts at 1. Get a number of Career dice equal to the tens digit of your age. For each die, choose a skill group below and roll. If you don't have the indicated skill yet, gain it at rank 1. If you do, increase its rank by 1. On a roll of 6, choose one skill from the group and increase Career rank by 1. You may roll all the dice in the same skill group, or split them between two groups.
 
-When you gain the Weapon skill, choose a specific weapon, like scattergun or cutlass. When you gain the Science skill, choose a specific field, like chemistry or biology. When you gain the Vehicle skill, choose a specific vehicle class, like flyer or antigrav.
+When you gain the Weapon, Vehicle, or Science skill, roll on the corresponding specific skill list and gain the indicated skill.
 
 ### Skill Groups
 
 <div class="grid">
-<div class="col-6">
+<div class="col-4">
 
-#### Spacer
-1. Engineer
-2. Computer
+#### Spacer (1d6)
+1. Helm
+2. Science
 3. Gunnery
-4. Helm
-5. Science
+4. Engineer
+5. Computer
 6. Choose from 1–5, increase Career rank
 
-#### Soldier
+</div>
+<div class="col-4">
+
+#### Soldier (1d6)
 1. Weapon
-2. Weapon
+2. Vehicle
 3. Engineer
 4. Medic
 5. Gunnery
 6. Choose from 1–5, increase Career rank
 
 </div>
-<div class="col-6">
+<div class="col-4">
 
-#### Merchant
+#### Merchant (1d6)
 1. Business
 2. Business
 3. Helm
-4. Weapon
-5. Vehicle
+4. Vehicle
+5. Computer
 6. Choose from 1–5, increase Career rank
 
-#### Operative
-1. Computer
-2. Science
-3. Medic
-4. Weapon
-5. Vehicle
-6. Choose from 1–5, increase Career rank
+</div>
+</div>
+
+### Specific Skills
+
+<div class="grid">
+<div class="col-4">
+
+#### Weapon (1d6)
+1. Unarmed
+2. Melee Weapons
+3. Pistol
+4. Shotgun
+5. Carbine
+6. Long Rifle
+
+</div>
+
+<div class="col-4">
+
+#### Vehicle (1d3)
+1. Watercraft
+2. Aircraft
+3. Groundcraft
+
+</div>
+
+<div class="col-4">
+
+#### Science (1d3)
+1. Physics
+2. Chemistry
+3. Biology
 
 </div>
 </div>
@@ -81,36 +110,36 @@ Consider the details of your Career. Who was this person before the game? Discus
 Name your character and give them a strong visual detail.
 
 ### Birth Months
-| Month (1d12) | Star Sign    | Personality Trait |
-|--------------|--------------|-------------------|
-| 1            | Crane        | Aloof             |
-| 2            | Bear         | Stubborn          |
-| 3            | Sword        | Clever            |
-| 4            | Archon       | Domineering       |
-| 5            | Deckhand     | Practical         |
-| 6            | Sage         | Wise              |
-| 7            | Merchant     | Shrewd            |
-| 8            | Boar         | Loyal             |
-| 9            | Desert Mouse | Flighty           |
-| 10           | Firebird     | Confident         |
-| 11           | Fox          | Private           |
-| 12           | Navigator    | Ambitious         |
+| Roll (d66) | Month & Star Sign  | Personality Trait |
+|------------|------------------|-------------------|
+| 11,12,13 | 1, Crane        | Aloof             |
+| 14,15,16 | 2, Bear         | Stubborn          |
+| 21,22,23 | 3, Sword        | Clever            |
+| 24,25,26 | 4, Archon       | Domineering       |
+| 31,32,33 | 5, Deckhand     | Practical         |
+| 34,35,36 | 6, Sage         | Wise              |
+| 41,42,43 | 7, Merchant     | Shrewd            |
+| 44,45,46 | 8, Boar         | Loyal             |
+| 51,52,53 | 9, Desert Mouse | Flighty           |
+| 54,55,56 | 10, Firebird     | Confident         |
+| 61,62,63 | 11, Fox          | Private           |
+| 64,65,66 | 12, Navigator    | Ambitious         |
 
 ### Downfalls
-| Roll (1d12) | Downfall          |
+| Roll (d66) | Downfall          |
 |-------------|-------------------|
-| 1           |  Betrayal         |
-| 2           |  Accident         |
-| 3           |  Violence         |
-| 4           |  Murder           |
-| 5           |  Debt             |
-| 6           |  Corruption       |
-| 7           |  Illness          |
-| 8           |  Misunderstanding |
-| 9           |  Lies             |
-| 10          |  Incompetence     |
-| 11          |  Love             |
-| 12          |  Accusation       |
+| 11,12,13    |  Betrayal         |
+| 14,15,16    |  Accident         |
+| 21,22,23    |  Violence         |
+| 24,25,26    |  Murder           |
+| 31,32,33    |  Debt             |
+| 34,35,36    |  Corruption       |
+| 41,42,43    |  Illness          |
+| 44,45,46    |  Misunderstanding |
+| 51,52,53    |  Lies             |
+| 54,55,56    |  Incompetence     |
+| 61,62,63    |  Love             |
+| 64,65,66    |  Accusation       |
 
 ### Personal Items (D66)
 | Roll(d66) | Item | Roll(d66) | Item |
