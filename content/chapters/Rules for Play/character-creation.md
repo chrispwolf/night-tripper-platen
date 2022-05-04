@@ -20,7 +20,7 @@ Roll 2d6 each for your Strength and Agility characteristics to find their starti
 | 12                           | 3                   |
 
 
-## 2. Career & Aging
+## 2. Career
 You being at 18 years old. Your Career rank starts at 0.
 
 Choose a skill group below, and gain a free listed skill of your choice at rank 1.
@@ -40,7 +40,7 @@ You may end your career after any term your character survived. Continue charact
 | Roll (2d6) | Result |
 |-|-|
 | 2-3 | Death |
-| 4-6 | Injury or aging. Lose one rank in a physical characteristic, or 1d3 maximum luck. Characteristics may not be lowered to less than 0. Death if maximum luck falls to 0 or less. |
+| 4-6 | Injury or aging effects. Lose one rank in a physical characteristic, or 1d3 maximum luck. Characteristics may not be lowered to less than 0. Death if maximum luck falls to 0 or less. |
 | 7-9 | Roll 1d6 and either gain the corresponding skill from your skill group at rank 1, or increase its rank by 1 if you have it already. Lose 1 Maximum luck.|
 | 10+ | Roll for a skill as above, but lose no luck. |
 
