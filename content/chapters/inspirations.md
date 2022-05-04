@@ -22,7 +22,15 @@ title: "Inspirations & Recommendations"
 
 ## Television: 
 * *Star Trek*
-* *Foundation* on Apple TV, 2021
+* *Foundation* on Apple TV
+
+## Video Games:
+* *No Man's Sky* by Hello Games
+* *Escape Velocity* by Ambrosia Software
+* *Heat Signature* by Suspicious Developments
+* *House of the Dying Sun* by Marauder Interactive
+* *Sid Meier's Pirates!* (2004) by Firaxis Games
+
 
 ## Illustration & Painting:
 * Science fiction characters by [Alain Gruetter](https://www.instagram.com/bagboss.art)
