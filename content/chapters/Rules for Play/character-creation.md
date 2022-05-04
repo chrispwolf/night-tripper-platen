@@ -51,7 +51,7 @@ You may end your career after any term your character survived. Continue charact
 
 #### Spacer (1d6)
 1. Helm
-2. Weapon (Pistol)
+2. Weapon (Scattergun)
 3. Gunnery
 4. Engineer
 5. Computer
@@ -73,7 +73,7 @@ You may end your career after any term your character survived. Continue charact
 
 #### Merchant (1d6)
 1. Business
-2. Weapon (Shotgun)
+2. Weapon (Pistol)
 3. Helm
 4. Vehicle
 5. Computer
@@ -102,7 +102,7 @@ You may end your career after any term your character survived. Continue charact
 1. Unarmed
 2. Armed Melee
 3. Pistol
-4. Shotgun
+4. Scattergun
 5. Carbine
 6. Long Rifle
 
