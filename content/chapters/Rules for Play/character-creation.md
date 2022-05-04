@@ -7,58 +7,87 @@ bookToC: true
 # Character Creation
 Use an index card to keep a record of your character. Follow these steps:
 
-## 1. Age & Luck
-Roll your character's age: 2d6x5 years. Minimum 20. Your current and maximum Luck is 12 minus the tens digit of your age (e.g. a 35-year-old character has a starting Luck of 9/9).
+## 1. Luck & Physical Characteristics
+Your maximum luck starts at 10.
 
-## 2. Physical Characteristics
-Roll 2d6 each for your Strength and Agility characteristics, and subtract the tens digit of your age to each 2d6 roll. Compare each result on the table below and note their physical characteristic ranks.
+Roll 2d6 each for your Strength and Agility characteristics to find their starting rank on the table below:
 
-| Roll 2d6 - tens digit of age | Characteristic rank |
+| Roll (2d6) | Characteristic rank |
 |------------------------------|---------------------|
-| 3 or less                    | 0                   |
-| 4–5                          | 1                   |
-| 6–8                          | 2                   |
-| 9+                           | 3                   |
+| 2-5                    | 0                   |
+| 6-8                          | 1                   |
+| 0-11                          | 2                   |
+| 12                           | 3                   |
 
 
-## 3. Career 
-Your Career rank starts at 1. Get a number of Career dice equal to the tens digit of your age. For each die, choose a skill group below and roll. If you don't have the indicated skill yet, gain it at rank 1. If you do, increase its rank by 1. On a roll of 6, choose one skill from the group and increase Career rank by 1. You may roll all the dice in the same skill group, or split them between two groups.
+## 2. Career & Aging
+You being at 18 years old. Your Career rank starts at 0.
 
-When you gain the Weapon, Vehicle, or Science skill, roll on the corresponding specific skill list and gain the indicated skill.
+Choose a skill group below, and gain a free listed skill of your choice at rank 1.
+
+Undergo as many Career Terms as you wish. In each term, roll 2d6 and consult the Career Term table, below. Your character can gain skills, age, lose luck, or die as indicated.
+
+When you gain the weapon or vehicle skill and a specific weapon or vehicle category is given, gain that skill at rank 1. If none is given, roll for a random weapon or vehicle category.
+
+If you gain the weapon or vehicle skill again you may increase a skill you already have, or roll a random new one.
+
+Before any term after the first, you may choose to switch to a different skill group. You may only do this once, and do not a free skill.
+
+You may end your career after any term your character survived. Continue character creation.
+
+### Career Term Table
+
+| Roll (2d6) | Result |
+|-|-|
+| 2-3 | Death |
+| 4-6 | Injury or aging. Lose one rank in a physical characteristic, or 1d3 maximum luck. Characteristics may not be lowered to less than 0. Death if maximum luck falls to 0 or less. |
+| 7-9 | Roll 1d6 and either gain the corresponding skill from your skill group at rank 1, or increase its rank by 1 if you have it already. Lose 1 Maximum luck.|
+| 10+ | Roll for a skill as above, but lose no luck. |
 
 ### Skill Groups
 
 <div class="grid">
-<div class="col-4">
+<div class="col-6">
 
 #### Spacer (1d6)
 1. Helm
-2. Science
+2. Weapon (Pistol)
 3. Gunnery
 4. Engineer
 5. Computer
 6. Choose from 1–5, increase Career rank
 
 </div>
-<div class="col-4">
+<div class="col-6">
 
 #### Soldier (1d6)
-1. Weapon
-2. Vehicle
+1. Weapon (Carbine)
+2. Weapon (Carbine)
 3. Engineer
 4. Medic
 5. Gunnery
 6. Choose from 1–5, increase Career rank
 
 </div>
-<div class="col-4">
+<div class="col-6">
 
 #### Merchant (1d6)
 1. Business
-2. Business
+2. Weapon (Shotgun)
 3. Helm
 4. Vehicle
 5. Computer
+6. Choose from 1–5, increase Career rank
+
+</div>
+<div class="col-6">
+
+#### Drifter (1d6)
+1. Weapon (Pistol)
+2. Weapon (Unarmed)
+3. Vehicle
+4. Forgery
+5. Gambling
 6. Choose from 1–5, increase Career rank
 
 </div>
@@ -67,11 +96,11 @@ When you gain the Weapon, Vehicle, or Science skill, roll on the corresponding s
 ### Specific Skills
 
 <div class="grid">
-<div class="col-4">
+<div class="col-6">
 
 #### Weapon (1d6)
 1. Unarmed
-2. Melee Weapons
+2. Armed Melee
 3. Pistol
 4. Shotgun
 5. Carbine
@@ -79,26 +108,18 @@ When you gain the Weapon, Vehicle, or Science skill, roll on the corresponding s
 
 </div>
 
-<div class="col-4">
+<div class="col-6">
 
 #### Vehicle (1d3)
 1. Watercraft
-2. Aircraft
+2. Flyers
 3. Groundcraft
 
 </div>
 
-<div class="col-4">
-
-#### Science (1d3)
-1. Physics
-2. Chemistry
-3. Biology
-
-</div>
 </div>
 
-## 4. Personal Details & Past
+## 3. Personal Details & Past
 Roll a random Birth Month. Examples given are for the imperial calendar. The corresponding personality trait represents general beliefs about people born in that month.
 
 Roll a random Downfall, the reason you moved from your previous life into a wandering life of adventure.
@@ -145,10 +166,10 @@ Name your character and give them a strong visual detail.
 | Roll(d66) | Item | Roll(d66) | Item |
 |------|------|------|------|
 | 11 | A silver pocket watch, showing the time on a distant world | 41 | A pet rodent, small enough to fit in your pocket |
-| 12 | A signet ring of a fallen noble house | 42 | A stained cookbook |
+| 12 | The signet ring of a fallen noble house | 42 | A stained cookbook |
 | 13 | A ceremonial crystal knife | 43 | A bottle of perfume |
-| 14 | A large belt buckle shaped like the face of a snarling feline | 44 | A letter in a sealed, tear-stained envelope |
-| 15 | The tooth of a large carnivore on a loop of leather | 45 | Watercolor paints, a brush and a sheaf of paper |
+| 14 | A belt buckle shaped like the face of a snarling feline | 44 | A letter in a sealed, tear-stained envelope |
+| 15 | A large carnivore tooth on a loop of leather | 45 | Watercolor paints, a brush and a sheaf of paper |
 | 16 | An eye patch | 46 | A handmade string instrument |
 | 21 | Whale-fur cape | 51 | A drawstring bag of laquered divination chits |
 | 22 | Hydrocycler suit in need of new filters | 52 | A box of fine tea |
@@ -161,10 +182,10 @@ Name your character and give them a strong visual detail.
 | 33 | A salamander-skin vest | 63 | A loop of plastic prayer beads |
 | 34 | A portable gaming console | 64 | A worn copy of *Practical Astrology, 12th Edition* | 
 | 35 | gardening gloves and pruning shears | 65 | A new copy of *13 Daily Practices of Effective Leaders* |
-| 36 | A deck of cards, gambling chips, and dice | 66 | *The Handbook of Approved Mantras* | 
+| 36 | A game board | 66 | *The Handbook of Approved Mantras* | 
 
 ## 5. Gear & Credits
-Start with any weapons in which you are skilled. If you have the Medic skill, start with a medical kit. If you have the Computer skill, start with a portable computer console. If you have the Engineer skill, start with a portable toolkit. If you have a Science skill, start with a portable lab or survey equipment related to your scientific field.
+Start with any weapons in which you are skilled. If you have the Medic skill, start with a medical kit. If you have the Computer skill, start with a portable computer console. If you have the Engineer skill, start with a portable toolkit. If you have the Gambling skill, start with a deck of playing cards and dice.
 
 Roll a number of d6's equal do the decade of your age and add them together. Start play with that many credits.
 
