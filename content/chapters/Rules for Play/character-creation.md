@@ -25,7 +25,7 @@ You being at 18 years old. Your Career rank starts at 0.
 
 Choose a skill group below, and gain a free listed skill of your choice at rank 1.
 
-Undergo as many Career Terms as you wish. In each term, roll 2d6 and consult the Career Term table, below. Your character can gain skills, age, lose luck, or die as indicated.
+Undergo as many Career Terms as you wish. In each term, roll 2d6 and consult the Career Term table, below. Your character can gain skills, feel the effects of age, lose luck, or die as indicated. If you don't die, add 5 years to your character's age.
 
 When you gain the weapon or vehicle skill and a specific weapon or vehicle category is given, gain that skill at rank 1. If none is given, roll for a random weapon or vehicle category.
 
