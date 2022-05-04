@@ -1,9 +1,9 @@
 ---
 weight: 4
-title: "Inspirations"
+title: "Inspirations & Recommendations"
 ---
 
-# Inspiration
+# Inspirations & Recommendations
 
 ## Role-playing:
 * [*Traveller*](https://www.drivethrurpg.com/product/80192/CTTTBThe-Traveller-Book?term=The+Traveller+book), by Marc Miller
@@ -11,12 +11,18 @@ title: "Inspirations"
 * [*Into the Odd*](https://www.bastionland.com/), by Chris McDowall
 * [*Tunnel Goons*](https://natetreme.itch.io/tunnelgoons) by Nate Treme
 * [*Pacts & Blades*](https://lucasrolim.itch.io/pactsandblades) by Lucas Rolim
+* [*Any Planet is Earth*](https://classless-kobolds.itch.io/any-planet-is-earth) by Classless Kobolds
 * Luke Gearing's [blog](https://lukegearing.blot.im/)
 
 ## Novels:
 * *Consider Phlebas* by Iain M. Banks
 * *Ancillary Justice* by Ann Leckie
 * *Ninefox Gambit* by Yoon-Ha Lee
+* *A Memory Called Empire* and *A Desolation Called Peace* by Arkady Martine
+
+## Television: 
+* *Star Trek*
+* *Foundation* on Apple TV, 2021
 
 ## Illustration & Painting:
 * Science fiction characters by [Alain Gruetter](https://www.instagram.com/bagboss.art)
