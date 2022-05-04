@@ -1,6 +1,6 @@
 ---
 weight: 4
-title: "Inspirations & Recommendations"
+title: "Inspirations"
 ---
 
 # Inspirations & Recommendations
