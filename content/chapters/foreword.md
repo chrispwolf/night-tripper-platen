@@ -1,9 +1,9 @@
 ---
 weight: -1
-title: "Foreward"
+title: "Foreword"
 ---
 
-# Foreward
+# Foreword
 Night Tripper is a starting point. A set of light and modular tools, rules and procedures. Use them as written only as long as they serve your shared goals. Hack, expand, and repurpose them without hesitation. They assume a group of three or more, with one person acting as Referee and the others as players controlling individual characters.
 
 Night Tripper is not original. If you are familiar with the earliest 2d6 interstellar role-playing games, you'll recognize a lineage. Night Tripper aspires to that spirit of improvisation, open-endedness and malleability.

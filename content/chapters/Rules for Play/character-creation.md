@@ -21,7 +21,7 @@ Roll 2d6 each for your Strength and Agility characteristics to find their starti
 
 
 ## 2. Career
-You being at 18 years old. Your Career rank starts at 0.
+You begin at 18 years old. Your Career rank starts at 0.
 
 Choose a skill group below, and gain a free listed skill of your choice at rank 1.
 
