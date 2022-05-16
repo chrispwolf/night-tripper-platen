@@ -35,11 +35,11 @@ Unless the disposition of an encountered NPC is a foregone conclusion, the refer
 
 | 2d6 | Disposition |
 |-----|-------------|
-| 2 | Very Negative |
-| 3–5 | Negative |
-| 6–8 | Neutral / Guarded |
-| 9–11 | Positive / Helpful |
-| 12 | Very Positive / Friendly |
+| 2 | Very Negative / Violent |
+| 3–5 | Negative / Hostile |
+| 6–8 | Guarded / Wary / Suspicious |
+| 9–11 | Positive / Friendly |
+| 12 | Very Positive / Helpful |
 
 
 
