@@ -21,11 +21,13 @@ Roll 2d6 each for your Strength and Agility characteristics to find their starti
 
 
 ## 2. Career
-You being at 18 years old. Your Career rank starts at 0.
+You begin at 18 years old. Your Career rank starts at 0.
 
 Choose a skill group below, and gain a free listed skill of your choice at rank 1.
 
-Undergo as many Career Terms as you wish. In each term, roll 2d6 and consult the Career Term table, below. Your character can gain skills, feel the effects of age, lose luck, or die as indicated. If you don't die, add 5 years to your character's age.
+Undergo as many Career Terms as you wish. In each term, roll 2d6 and consult the Career Term table, below. Your character can gain skills, feel the effects of age, lose luck, or die as indicated. If you don't die, add 5 years to your character's age. A character dies if their maximum luck falls to 0 or less.
+
+On any result higher than 3, you will make a skill roll. Roll 1d6 and either gain the corresponding skill from your skill group at rank 1, or increase its rank by 1 if you have it already. 
 
 When you gain the weapon or vehicle skill and a specific weapon or vehicle category is given, gain that skill at rank 1. If none is given, roll for a random weapon or vehicle category.
 
@@ -40,9 +42,9 @@ You may end your career after any term your character survived. Continue charact
 | Roll (2d6) | Result |
 |-|-|
 | 2-3 | Death |
-| 4-6 | Injury or aging effects. Lose one rank in a physical characteristic, or 1d3 maximum luck. Characteristics may not be lowered to less than 0. Death if maximum luck falls to 0 or less. |
-| 7-9 | Roll 1d6 and either gain the corresponding skill from your skill group at rank 1, or increase its rank by 1 if you have it already. Lose 1 Maximum luck.|
-| 10+ | Roll for a skill as above, but lose no luck. |
+| 4-6 | Make a skill roll. Suffer an injury feel the effects of age. Lose one rank in a physical characteristic, or 1d3 maximum luck. Characteristics may not be lowered to less than 0. |
+| 7-9 | Make a skill roll, lose 1 Maximum luck.|
+| 10+ | Make a skill roll. |
 
 ### Skill Groups
 
