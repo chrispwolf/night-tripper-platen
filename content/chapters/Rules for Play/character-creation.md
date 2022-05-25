@@ -16,7 +16,7 @@ Roll 2d6 each for your Strength and Agility characteristics to find their starti
 |------------------------------|---------------------|
 | 2-5                    | 0                   |
 | 6-8                          | 1                   |
-| 0-11                          | 2                   |
+| 10-11                          | 2                   |
 | 12                           | 3                   |
 
 
