@@ -1,5 +1,5 @@
 ---
-weight: 5
+weight: 4
 title: "Skirmishes"
 bookToC: true
 ---
@@ -28,6 +28,8 @@ PC's can avoid a Wound by reducing their current luck by the impact of the attac
 Armor ignores damage from one attack of the wearer's choosing, then must be replaced.
 
 Laser weapons shoot beams of focused light, and render conventional armor useless.
+
+The Logistics & Ports chapter contains [rules for medical care](/chapters/Rules-for-Play/logistics/#medical-care).
 
 ## Skirmish Actions
 ### Talking
