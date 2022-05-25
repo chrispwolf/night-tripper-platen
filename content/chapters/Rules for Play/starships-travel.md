@@ -7,6 +7,8 @@ bookToC: true
 # Starships & Travel
 These rules cover small craft like light freighters, gunboats and pleasure yachts. Capitals and other large ships should be treated as set pieces and terrain. You won't win in a fight against them.
 
+Other than shuttles and other short-range craft, most ships are outfitted with a Gate Core. A gate core enables a ship to enter gatespace and travel many times the speed of light. A ship can only enter or leave gatespace a significant distance from worlds or other large bodies.
+
 The players may start with a starship. If they do, they are likely in debt for the full cost to a bank, loan shark, ship manufacturer, or other entity. Standard loan repayment terms are 1.5% of the total cost of the ship paid out over 100 months. At the end of 100 months, the PCs will have paid 150% of the cost of the ship. Round fractions of a credit up.
 
 ## Ship Attributes
@@ -28,8 +30,11 @@ The players may start with a starship. If they do, they are likely in debt for t
 
 \* *No gate core. Incapable of interstellar travel.*
 
-## Travel
-Ships with a gate core travel 1 parsec per week through interstellar space. Within a star system, a ship can hop between major locations instantly. Ships can only safely enter or leave gate space when a significant distance from large objects. A ship can hold 4 fuel in its fuel tanks. 1 fuel is expended for each parsec of interstellar travel.
+## Interplanetary Travel
+Vessels without a gate core may take weeks or months to travel between locations in a star system. Ships with a gate core may hop between locations nearly instantly. The referee rolls for an encounter after making the jump.
+
+## Interstellar Travel
+Ships in gatespace travel between star systems at a speed of one parsec per week. The referee rolls for an encounter in each system traveled through, including the origin and destination. Update the campaign calendar to reflect time spent traveling.
 
 ## Ship Encounters
-When arriving in a new system, traveling between locations within a system, or leaving a system, the referee checks for encounters with other vessels. An encounter occurs on a 1d6 roll equal to or less than the local world's Population attribute. The referee section has tools for randomizing encounters and determining the disposition of encountered ships.
+An encounter occurs on a 1d6 roll equal to or less than the local world's Population attribute. The referee section has tools for randomizing encounters and determining the disposition of encountered ships.
