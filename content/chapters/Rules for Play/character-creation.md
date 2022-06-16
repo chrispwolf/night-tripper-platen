@@ -29,9 +29,9 @@ Undergo as many Career Terms as you wish. In each term, roll 2d6 and consult the
 
 On any result higher than 3, you will make a skill roll. Roll 1d6 and either gain the corresponding skill from your skill group at rank 1, or increase its rank by 1 if you have it already. 
 
-When you gain the weapon or vehicle skill and a specific weapon or vehicle category is given, gain that skill at rank 1. If none is given, roll for a random weapon or vehicle category.
+When you gain the weapon skill and a specific weapon category is given in parenthesis, gain that skill at rank 1. If none is given, roll for a random weapon category.
 
-If you gain the weapon or vehicle skill again you may increase a skill you already have, or roll a random new one.
+If you gain the weapon skill again you may increase a skill you already have, or roll a random new one.
 
 Before any term after the first, you may choose to switch to a different skill group. You may only do this once, and do not a free skill.
 
@@ -77,7 +77,7 @@ You may end your career after any term your character survived. Continue charact
 1. Business
 2. Weapon (Pistol)
 3. Helm
-4. Vehicle
+4. Drive
 5. Computer
 6. Choose from 1–5, increase Career rank
 
@@ -87,7 +87,7 @@ You may end your career after any term your character survived. Continue charact
 #### Drifter (1d6)
 1. Weapon (Pistol)
 2. Weapon (Unarmed)
-3. Vehicle
+3. Drive
 4. Forgery
 5. Gambling
 6. Choose from 1–5, increase Career rank
@@ -107,15 +107,6 @@ You may end your career after any term your character survived. Continue charact
 4. Scattergun
 5. Carbine
 6. Long Rifle
-
-</div>
-
-<div class="col-6">
-
-#### Vehicle (1d3)
-1. Watercraft
-2. Flyers
-3. Groundcraft
 
 </div>
 

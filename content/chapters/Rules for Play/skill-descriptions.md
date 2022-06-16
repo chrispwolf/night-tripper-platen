@@ -36,5 +36,5 @@ Basic medical understanding. Familiarity with medicine and surgeon's tools.
 ## Weapon Skills
 Use the specific skill in a weapon when attacking with that weapon. The Unarmed skill covers all brawling and martial arts. The Armed melee covers all melee combat with blades, clubs, swords, spears, etc. Each category of firearm has its own skill.
 
-## Vehicle Skills
-Use the specific skill for a vehicle category to operate that type of vehicle under risky or difficult circumstances. Watercraft covers boats, hovercraft, etc. Flyers covers helicopters, fixed-wing planes, ornithopters, GEVs, high-altitude antigrav, etc. Groundcraft covers groundcars, armored vehicles, gravcars, etc.
+## Drive
+Drive covers the driving and piloting of most vehicles other than starships. Groundcars, hover skiffs, watercraft, flyers etc.
