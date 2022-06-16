@@ -60,6 +60,8 @@ params:
 
   # Use this for the social media preview functionality
   twitterCards: true
+  twitter:
+    - card: "summary_large_image"
   images:
     - /assets/images/ogimage.png
 
