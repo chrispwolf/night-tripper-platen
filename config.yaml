@@ -59,7 +59,7 @@ params:
   description: Interstellar Adventure Role-Play
 
   # Use this for the social media preview functionality
-  twitter_cards: true
+  twitterCards: true
   images:
     - /assets/images/ogimage.png
 

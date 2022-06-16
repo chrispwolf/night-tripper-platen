@@ -1,5 +1,7 @@
 ---
 title: "Home"
+twitter:
+- card: "summary_large_image"
 ---
 
 <h1 class="index-title">Night Tripper</h1>
