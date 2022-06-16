@@ -59,6 +59,7 @@ params:
   description: Interstellar Adventure Role-Play
 
   # Use this for the social media preview functionality
+  twitter_cards: true
   images:
     - /assets/images/ogimage.png
 
@@ -86,7 +87,7 @@ params:
 
   # Set source repository location. Set this to YOUR repository!
   # Used for 'Last Modified' and 'Edit this page' links.
-  BookRepo: https://github.com/platenio/book-template
+  BookRepo: https://github.com/chrispwolf/night-tripper-platen
 
   # (Optional, default 'commit') Specifies commit portion of the link to the page's last modified
   # commit hash for 'doc' page type.
