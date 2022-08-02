@@ -11,7 +11,7 @@ When a fight is simple, resolve it with a single throw. If the outcome is a fore
 When a skirmish breaks out, order the game into rounds. Each character may perform one action in a round. actions are performed in the following order:
 
 1. Talking
-2. Melee attacks: advantaged, matched, then disadvantaged
+2. Melee attacks
 3. Movement
 4. Miscellaneous
 5. Ranged attacks, in order shown on the ranged attack chart
@@ -19,7 +19,9 @@ When a skirmish breaks out, order the game into rounds. Each character may perfo
 Characters performing the same action do it simultaneously. Characters do not have to decide their action at the beginning of the round. The referee should call out each action type in order, and announce which NPC's will act. The players may then announce if they are performing the current action. 
 
 ## Attacks & Wounds
-To attack an enemy in a skirmish, make a throw + relevant weapon skill. Add or subtract a modifier based on the weapon you are using. Modifiers are detailed in the melee and ranged attack sections. Use the hit location chart along with the lower die of an attack throw to determine hit location.
+To attack an enemy in a skirmish, make a throw + relevant weapon skill. Use the hit location chart along with the lower die of an attack throw to determine hit location.
+
+Attacks can be Advantaged or Disadvantaged. If Advantaged, an attacker throws 3d6 and uses the two highest dice for the throw. If Disadvantaged, they throw 3d6 and use the two lowest.
 
 The target of an attack gains a Wound condition with a severity equal to the impact of the throw. Combined with the hit location, the target will get a condition like "Leg wound 1" or "Head wound 3." If the total severity of Wounds to a character's head or torso is 4 or more, the character is killed. If the total severity of wounds to legs or arms is 4 or more, a limb will need an autoprosthetic or vat-grown replacement. Determine left or right randomly.
 
@@ -36,11 +38,13 @@ The Logistics & Ports chapter contains [rules for medical care](/chapters/Rules-
 If you choose to talk as your action, you can say a few words before anything else happens. Maybe if you are diplomatic you can stop this foolishness before it starts.
 
 ### Melee Attacks
-A combatant with a longer weapon begins with the advantage over one with a shorter weapon. At their discretion, the referee can declare the opposite, for situations such as using a halberd in a space station maintenance tunnel.
+Melee attacks are all resolved simultaneously.
 
-Advantaged melee attacks get a +2 modifier, Matched melee attacks +1, and Disadvantaged melee attacks +0.
+Melee weapons are short (knife), medium (club, sword), or long (spear).
 
-If a Disadvantaged melee attacker successfully hits their target (gets 1 or more impact on the attack throw), they have gotten inside (or outside) their opponents reach and  are Advantaged in the next round.
+A combatant wielding a long weapon makes Advantaged attacks against one using a medium or short weapon. Medium weapons are Advantaged against short weapons. Attacks with short weapons are Disadvantaged against long weapons.
+
+At their discretion, the referee can declare the opposite, flipping advantages. For example, if character A, armed with a sword, fights character B, armed with a halberd, in a space station maintenence tunnel, A's attack would be Advantaged, and B's attack would be thrown normally.
 
 ### Movement
 You can run about 30' over open ground.
@@ -49,7 +53,7 @@ You can run about 30' over open ground.
 Sometimes you have to turn a crank or operate a computer or drive a gravcar or inject healing nanites while people are fighting.
 
 ### Ranged Attacks
-Ranged attackers use the ranged attack chart to determine their modifier, based on the weapon they are using and the range to their target. Ranged attacks are made in the order listed on the ranged attack chart.
+Ranged attacks are made in order from top to bottom on the Ranged Attack Chart below. Depending on the range of the attack, a weapon might be Advantaged (+), Disadvantaged (-), thrown normally (N) or unable to attack (X).
 
 The weapons detailed in the chart represent broad categories of firearms. Add additional rows to the chart as needed in your campaign.
 
@@ -57,10 +61,10 @@ The weapons detailed in the chart represent broad categories of firearms. Add ad
 ### Ranged Attack Chart
 | Weapon     | Short Range (10m) | Medium Range (30m) | Long Range (200m) | Distant Range (1km) |
 |------------|--------------------|---------------------|--------------------|----------------------|
-| Pistol     | 0                  | 0                   | -2                 | N/A                  |
-| Scattergun | +2                 | 0                   | N/A                | N/A                  |
-| Carbine    | +1                 | +1                  | -1                 | -2                   |
-| Long Rifle | -2                 | +1                  | +1                 | +1                   |
+| Pistol     | N                  | -                   | -                  | X                    |
+| Scattergun | +                  | -                   | X                  | X                    |
+| Carbine    | N                  | N                   | -                  | -                    |
+| Long Rifle | -                  | N                   | N                  | N                    |
 
 ### Wound Location
 | Lower Attack Die | Location |
