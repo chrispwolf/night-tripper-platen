@@ -63,7 +63,7 @@ The weapons detailed in the chart represent broad categories of firearms. Add ad
 |------------|--------------------|---------------------|--------------------|----------------------|
 | Pistol     | N                  | -                   | -                  | X                    |
 | Scattergun | +                  | -                   | X                  | X                    |
-| Carbine    | N                  | N                   | -                  | -                    |
+| Carbine    | N                  | N                   | -                  | X                    |
 | Long Rifle | -                  | N                   | N                  | N                    |
 
 ### Wound Location
