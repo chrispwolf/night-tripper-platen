@@ -18,14 +18,14 @@ To play you will need at least two six-sided dice (d6), index cards, and pencils
 
 Certain rules call for using a 3-sided die (d3). In these cases, roll 1d6. A roll of 1–2 is 1, 3–4 is 2, 5–6 is 3.
 
-Other tables call for using a "d66," in this case, use 2d6, with one designated as the tens digit and the other as the ones digit. For example, read a roll of 3 and 4 as 34.
+Some tables call for using a "d66," in this case, use 2d6, with one designated as the tens digit and the other as the ones digit. For example, read a roll of 3 and 4 as 34.
 
 ## Throws & Impact
 When a player character takes a dangerous or uncertain action, their player rolls 2d6. On a total of 8 or higher, the character succeeds. Otherwise, they fail and suffer consequences as determined by the referee. If an action is impossible, or if the PC lacks necessary tools or knowledge, they fail automatically.
 
-If one of a player character's skills or Characteristics is relevant to the task, they add its rank to the throw.
+If one of a player character's skills or characteristics is relevant to the task, they add its rank to the throw.
 
-Sometimes successful throws can have additional effects, measured in Impact. A throw has an Impact equal to the total result minus 7. Impact is used chiefly for damage in combat, but can also be used to represent complex, time-consuming tasks. For example, if a character is attempting to hack into a database during a tense combat situation, the referee might require them to accrue a total of 3 cumulative Impact, rolling once each skirmish round.
+Sometimes successful throws can have additional effects, measured in Impact. A throw has an Impact equal to the total result minus 7. Impact is used chiefly for damage in combat, but can also be used to represent complex, time-consuming tasks. For example, if a character attempts to hack into a database during a tense combat situation, the referee might require them to accrue a total of 3 cumulative Impact, rolling once each skirmish round.
 
 ## Physical Characteristics & Skills
 PCs have two physical Characteristics. Strength is power and endurance. Agility is quickness and coordination.
@@ -50,10 +50,8 @@ If a PC's maximum Luck ever reaches zero, they burn out and retire whenever next
 PCs regain Luck when they can spend time in safety, either at port or on board the ship. If a PC doesn't use any Luck for 2 weeks, they regain 1 Luck, up to their current maximum.
 
 ## Conditions
-Bad things happen to PCs. They might get drunk, or poisoned, or get a broken leg, or a chest wound. These are Conditions. Write Conditions on a PC's character card with a Severity rating, like "Hand Laceration 3". Subtract the severity of a PC's worst Condition to any throw where it would be an impediment. For example, if a PC has the Condition "Leg Wound 2", they subtract 2 from any throws to run, jump, climb, etc.
-
-PC's may have multiple Conditions, but they are not cumulative. Only apply the worst one to a throw.
+Bad things happen to PCs. They might get drunk, or poisoned, or get a broken leg, or a chest wound. These are Conditions. Write Conditions on a PC's character card with a Severity rating, like "Nauseous 3". Subtract the severity of a PC's worst Condition to any throw where it is an impediment. For example, if a PC has the Condition "Leg Wound 2", they subtract 2 from any throws to run, jump, climb, etc.
 
 
 ## NPCs
-Non-player characters can be described by a single Skill stat, ranked 1 or higher, which they use for all throws that fall under their areas of expertise. The referee may wish to flesh out more important NPCs with a specific list of skills.
+Non-player characters can be described by a single Skill stat, ranked 1 or higher, which they use for all throws that fall under their areas of expertise. The referee may flesh out more important NPCs with a specific list of skills.

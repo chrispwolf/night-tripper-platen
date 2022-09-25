@@ -8,7 +8,7 @@ bookToC: true
 When a fight is simple, resolve it with a single throw. If the outcome is a foregone conclusion, just say what happens. For more complex skirmishes, use these rules.
 
 ## Rounds
-When a skirmish breaks out, order the game into rounds. Each character may perform one action in a round. actions are performed in the following order:
+When a skirmish breaks out, divide game time into rounds. Each character may perform one action in a round. Resolve actions in the following order:
 
 1. Talking
 2. Melee attacks
@@ -16,16 +16,21 @@ When a skirmish breaks out, order the game into rounds. Each character may perfo
 4. Miscellaneous
 5. Ranged attacks, in order shown on the ranged attack chart
 
-Characters performing the same action do it simultaneously. Characters do not have to decide their action at the beginning of the round. The referee should call out each action type in order, and announce which NPC's will act. The players may then announce if they are performing the current action. 
+Characters performing the same action do it simultaneously. Characters do not have to decide their action at the beginning of the round. Call out each action type in order, and announce which NPC's will act. The players may then announce if they are performing the current action. 
 
 ## Attacks & Wounds
 To attack an enemy in a skirmish, make a throw + relevant weapon skill. Use the hit location chart along with the lower die of an attack throw to determine hit location.
 
 Attacks can be Advantaged or Disadvantaged. If Advantaged, an attacker throws 3d6 and uses the two highest dice for the throw. If Disadvantaged, they throw 3d6 and use the two lowest.
 
-The target of an attack gains a Wound condition with a severity equal to the impact of the throw. Combined with the hit location, the target will get a condition like "Leg wound 1" or "Head wound 3." If the total severity of Wounds to a character's head or torso is 4 or more, the character is killed. If the total severity of wounds to legs or arms is 4 or more, a limb will need an autoprosthetic or vat-grown replacement. Determine left or right randomly.
+The target of an attack gains a Wound condition with a severity equal to the impact of the throw. Combined with the hit location, the target will get a condition like "Leg wound 1" or "Head wound 3."
 
-PC's can avoid a Wound by reducing their current luck by the impact of the attack. They may not reduce a Wound by paying a portion of the impact, nor may they reduce their current Luck to less than 0.
+If the total combined severity of a character's wounds is 4 or more they go out of action and cannot act until the skirmish is over. If a single body location takes wounds totaling 4 or more severity, apply the following effects depending on location:
+* Head: instant death.
+* Torso: mortal wound. Death in 1d6 hours without stabilizing medical attention.
+* Legs or arms: A limb is destroyed. Randomly determine left or right.
+
+PCs may avoid a Wound by reducing their current Luck by the full impact of the attack. They may not reduce their current Luck to less than 0.
 
 Armor ignores damage from one attack of the wearer's choosing, then must be replaced.
 
@@ -35,10 +40,10 @@ The Logistics & Ports chapter contains [rules for medical care](/chapters/Rules-
 
 ## Skirmish Actions
 ### Talking
-If you choose to talk as your action, you can say a few words before anything else happens. Maybe if you are diplomatic you can stop this foolishness before it starts.
+Say a few words before anything else happens. Maybe if you are diplomatic you can stop this foolishness before it starts.
 
 ### Melee Attacks
-Melee attacks are all resolved simultaneously.
+Resolve all melee attacks simultaneously.
 
 Melee weapons are short (knife), medium (club, sword), or long (spear).
 
@@ -50,10 +55,10 @@ At their discretion, the referee can declare the opposite, flipping advantages. 
 You can run about 30' over open ground.
 
 ### Miscellaneous
-Sometimes you have to turn a crank or operate a computer or drive a gravcar or inject healing nanites while people are fighting.
+Turn a crank, operate a computer, drive a gravcar or inject healing nanites.
 
 ### Ranged Attacks
-Ranged attacks are made in order from top to bottom on the Ranged Attack Chart below. Depending on the range of the attack, a weapon might be Advantaged (+), Disadvantaged (-), thrown normally (N) or unable to attack (X).
+Make ranged attacks in order from top to bottom on the Ranged Attack Chart. Depending on the range of the attack, a weapon might be Advantaged (+), Disadvantaged (-), normal (N) or unable to attack (X).
 
 The weapons detailed in the chart represent broad categories of firearms. Add additional rows to the chart as needed in your campaign.
 

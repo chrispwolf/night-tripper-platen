@@ -7,9 +7,9 @@ title: "Home"
 ## Interstellar Adventure Role-Play (beta)
 ### By Chris P Wolf
 
-Rules & tools for interstellar science fiction role-playing games. Inspired by the original 2d6 interstellar game of the 1970s, and attempts to capture the same spirit of improvisation and open-ended possibility.
+Rules & tools for interstellar science fiction role-playing games. Inspired by the original 2d6 interstellar game of the 1970s. Aims to capture the same spirit of improvisation and open-ended possibility.
 
-A sparse and adaptable sci-fi system, intentionally thin on setting details. Make a star map and drop in your favorite adventures for any system. You can convert any numbers on the fly.
+A sparse and adaptable sci-fi system, intentionally thin on setting details. Make a star map and drop in your favorite adventures for any system. You can convert stats on the fly.
 
 Still in development; this site will be updated with new features and revised rules over time.
 
