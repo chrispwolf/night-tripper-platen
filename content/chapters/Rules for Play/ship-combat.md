@@ -33,7 +33,11 @@ These are the steps for each combat round, each detailed below:
 6. Engineering
 
 ## Computer
-Computer operaters uses their ship's electronics to try to predict the enemy's movement. Each side throws + computer skill, impact limited by the ship's electronics rank. The side with the highest impact performs its helm and gunnery tasks first. If neither side throws 8 or more, or if it is a tie, the side with the highest position goes first. If it is still a tie, resolve the helm and gunnery tasks simultaneously. Throw gunnery for the NPCs first, but the players ignore damage when shooting back.
+Computer operaters uses their ship's electronics to try to predict the enemy's movement. Each side throws + computer skill, impact limited by the ship's electronics rank.
+
+The side with the highest impact performs its helm and gunnery tasks first. If neither side throws 8 or more, or if it is a tie, the side with the highest position goes first.
+
+If it is still a tie, resolve the helm and gunnery tasks simultaneously. Throw gunnery for the NPCs first, but the players ignore damage when shooting back.
 
 ## Helm
 The ship's pilot throws + helm skill, impact limited by the ship's thrusters. Add the impact of the throw to the ship's position.
