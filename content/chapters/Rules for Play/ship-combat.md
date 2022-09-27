@@ -43,15 +43,17 @@ If it is still a tie, resolve the helm and gunnery tasks simultaneously. Throw g
 The ship's pilot throws + helm skill, impact limited by the ship's thrusters. Add the impact of the throw to the ship's position.
 
 ## Gunnery
-The ship's gunner throws + gunnery skill, impact limited by the ship's guns. The enemy ship suffers one hit for each point of impact. For each hit, the crew of the target ship choose to either take the hit or dodge it. If they take the hit, they lose 1 position and the attacker rolls on the hit location table below. If they dodge the hit, they lose 3 Position. Position cannot be reduced to less than 0. A ship with 0 Position takes every hit.
+The ship's gunner throws + gunnery skill, impact limited by the ship's guns. The enemy ship suffers one hit for each point of impact.
+
+For each hit, the crew of the target ship chooses to either take the hit or dodge it. If they take the hit, they lose 1 position and the attacker rolls on the hit location table below. If they dodge the hit, they lose 3 Position. Position cannot be reduced to less than 0. A ship with 0 Position takes every hit.
 
 The attacker may spend position to increase or decrease a hit location die by 1 for each point of position spent.
 
-The first time thrusters, guns, electronics, or Gate Core are hit, that component is damaged, the second time, it is destroyed.
+The first time thrusters, guns, electronics, or Gate Core are hit, that component is damaged. The second time, it is destroyed.
 
 Throws using damaged thrusters, guns, or electronics are disadvntaged. Make the throw on 3d6 and discard the highest die. A damaged gate core cannot be used to jump to gatespace. Destroyed systems cannot be used until repaired in port.
 
-When PC crew is hit, throw an attack with a +2 bonus against a random PC, as if in a skirmish. If NPC crew is hit, reduce NPC ship skill by 1. This can cause their skill to become negative.
+When PC crew is hit, throw an attack with a +2 bonus against a random PC, using the [skirmish rules](https://www.night-tripper.fun/chapters/rules-for-play/skirmishes/#attacks--wounds). If NPC crew is hit, reduce NPC ship skill by 1. This can cause their skill to become negative.
 
 ### Hit Location (1d6)
 | Roll | Hit Location & Effect |
