@@ -17,7 +17,7 @@ Each crew then declares their goal for the encounter. See the table below for co
 
 | Goal | Requirements |
 |------|--------------|
-| Escape by gate jumping to gatespace | Position 2 greater than enemy's & fully operational gate core. |
+| Escape by jumping to gatespace | Position 2 greater than enemy's & fully operational gate core. |
 | Escape to nearby world | Position 3 greater than enemy's & fully operational thrusters. |
 | Forcibly dock with and board enemy ship | Position 4 greater than enemy's & enemy thrusters destroyed. |
 | Board by leaping from your ship to theirs. | Position 4 greater than enemy's. Boarders throw + Agility to land on enemy hull. |
