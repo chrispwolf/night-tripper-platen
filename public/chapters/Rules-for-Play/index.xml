@@ -11,8 +11,8 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/core/</guid>
-      <description>Core A Long Fall Ancient beyond memory and long assumed unassailable, the Empire&amp;rsquo;s kiloparsec reach finally exceeded its grasp. Now in the time of its extended decline comes a reordering. Worlds struggle between themselves to survive the dying convulsions of a decaying hegemony. Strife brings opportunity and danger.
-Fundamentals Night Tripper is a collection of rules and tools for interstallar adventure role-play campaigns in the traditional style. For one referee and any number of players.</description>
+      <description>Core #  A Long Fall #  Ancient beyond memory and long assumed unassailable, the Empire&amp;rsquo;s kiloparsec reach finally exceeded its grasp. In the time of its extended decline comes a reordering. Worlds struggle between themselves to survive the dying convulsions of a geriatric hegemony. Strife brings opportunity and danger.
+Fundamentals #  A collection of rules and procedures for interstellar adventure role-play campaigns. For one referee and any number of players; three to five being a good range.</description>
     </item>
     
     <item>
@@ -21,20 +21,21 @@ Fundamentals Night Tripper is a collection of rules and tools for interstallar a
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/character-creation/</guid>
-      <description>Character Creation Use an index card to keep a record of your character.
-  Roll your character&amp;rsquo;s age: 2d6x5 years. Minimum 20. Your current and maximum Luck is 12 minus the tens digit of your age (e.g. a 35-year-old character has a starting Luck of 9/9).
-  Roll 2d6 each for your Strength and Agility characteristics, and subtract the tens digit of your age to each 2d6 roll. Compare each result on the table below and note their physical characteristic ranks.</description>
+      <description>Character Creation #  Use an index card to keep a record of your character. Follow these steps:
+1. Luck &amp;amp; Physical Characteristics #  Your maximum luck starts at 10.
+Roll 2d6 each for your Strength and Agility characteristics to find their starting rank on the table below:
+   Roll (2d6) Characteristic rank     2-5 0   6-8 1   10-11 2   12 3    2.</description>
     </item>
     
     <item>
-      <title>Logistics</title>
-      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/logistics/</link>
+      <title>Skills</title>
+      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/skill-descriptions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/logistics/</guid>
-      <description>Logistics Time &amp;amp; Money The basic unit of currency in Night Tripper is one credit. The basic unit of time is one week.
-One credit represents a significant expense. It costs one credit to live in a starport for a week, including food and lodging. You could also spend one credit on a particularly extravagant dinner.
-Travel between star systems is measured in weeks. During a week in port the PC&amp;rsquo;s can pursue opportunities, trade commodities and encounter the locals.</description>
+      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/skill-descriptions/</guid>
+      <description>Skills #  The skills included in the skill groups in character creation are described in detail below. Create new skill groups as necessary for your home game&amp;rsquo;s setting. Use any combination of these skills or new ones of your own devising.
+Business #  Managing businesses, negotiating financial transactions and overseeing trade. Directly affects the price of trade goods, as described in trade.
+Computer #  Writing computer programs or viruses, navigating digital bureaucracy and operating starship computer systems.</description>
     </item>
     
     <item>
@@ -43,9 +44,20 @@ Travel between star systems is measured in weeks. During a week in port the PC&a
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/skirmishes/</guid>
-      <description>Skirmishes When a fight is simple, resolve it with a single throw. If the outcome is a foregone conclusion, just say what happens. For more complex skirmishes, use these rules.
-Rounds When a skirmish breaks out, order the game into rounds. Each character may perform one action in a round. actions are performed in the following order:
- Talking Melee attacks: advantaged, matched, then disadvantaged Movement Miscellaneous Ranged attacks, in order shown on the ranged attack chart  Characters performing the same action do it simultaneously.</description>
+      <description>Skirmishes #  When a fight is simple, resolve it with a single throw. If the outcome is a foregone conclusion, just say what happens. For more complex skirmishes, use these rules.
+Rounds #  When a skirmish breaks out, divide game time into rounds. Each character may perform one action in a round. Resolve actions in the following order:
+ Talking Melee attacks Movement Miscellaneous Ranged attacks, in order shown on the ranged attack chart  Characters performing the same action do it simultaneously.</description>
+    </item>
+    
+    <item>
+      <title>Logistics &amp; Ports</title>
+      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/logistics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/logistics/</guid>
+      <description>Logistics &amp;amp; Ports #  Time &amp;amp; Money #  The basic unit of currency in Night Tripper is one credit. The basic unit of time is one week.
+One credit represents a significant expense. It costs one credit to live in a starport for a week, including food and lodging. You could also spend one credit on a particularly extravagant dinner.
+Travel between star systems is measured in weeks. During a week in port the PC&amp;rsquo;s can pursue opportunities, trade commodities and encounter the locals.</description>
     </item>
     
     <item>
@@ -54,19 +66,8 @@ Rounds When a skirmish breaks out, order the game into rounds. Each character ma
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/starships-travel/</guid>
-      <description>Starships &amp;amp; Travel These rules cover small craft like light freighters, gunboats and pleasure yachts. Capitals and other large ships should be treated as set pieces and terrain. You won&amp;rsquo;t win in a fight against them.
-The players may start with a starship. If they do, they are likely in debt for the full cost to a bank, loan shark, ship manufacturer, or other entity. Standard loan repayment terms are 1.</description>
-    </item>
-    
-    <item>
-      <title>Orbital Combat</title>
-      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/orbital-combat/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/orbital-combat/</guid>
-      <description>Orbital Combat Fighting in space frequently involves one side trying to get to a certain point and another side trying to stop them.
-Start by establishing the distance between combatants and the Goal Location. The most common distance is 4, the distance between a stellar object and its safe gate perimeter. Roll 2d3 for a random distance.
-If the objective of the fight does not involve a race to a specific location, be sure to declare a victory condition / end state for each side.</description>
+      <description>Starships &amp;amp; Travel #  These rules cover small craft like light freighters, gunboats and pleasure yachts. Capitals and other large ships should be treated as set pieces and terrain. You won&amp;rsquo;t win in a fight against them.
+Other than shuttles and other short-range craft, most ships are outfitted with a gate core. A gate core enables a ship to jump to gatespace and travel many times the speed of light.</description>
     </item>
     
     <item>
@@ -75,8 +76,18 @@ If the objective of the fight does not involve a race to a specific location, be
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/trade/</guid>
-      <description>Trade Most interstellar trade and shipping is carried out by immense freighters, contracted by the Guilds. However, small independent vessels can turn a regular profit by speculating on expensive goods, buying low and selling high.
+      <description>Trade #  Most interstellar trade and shipping is carried out by immense freighters, contracted by the Guilds. However, small independent vessels can turn a regular profit by speculating on expensive goods, buying low and selling high.
 There are four broad categories of trade goods, each corresponding to one world attribute. Use the table below to determine the local price of a trade good category. Goods in demand on a world cost 4d6 credits per load.</description>
+    </item>
+    
+    <item>
+      <title>Ship Combat</title>
+      <link>https://night-tripper.netlify.app/chapters/Rules-for-Play/ship-combat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://night-tripper.netlify.app/chapters/Rules-for-Play/ship-combat/</guid>
+      <description>Ship Combat #  Combat between ships combines the skills of a crew with the quaity of their ship. Any character may make any of the throws in a ship combat round, gaining a bonus as normal if they have the corresponding skill. However, the maximum impact of any throw is limited to the rank of the ship&amp;rsquo;s component.
+A player fires the guns on a ship with Guns 1. They throw a total of 10.</description>
     </item>
     
   </channel>
