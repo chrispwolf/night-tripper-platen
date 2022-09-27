@@ -5,15 +5,17 @@ bookToC: true
 ---
 
 # Ship Combat
-Combat between ships combines the skills of a crew with the quaity of their ship. Any character may make any of the throws in a ship combat round, gaining a bonus as normal if they have the corresponding skill. However, the maximum impact of any throw is limited to the rank of the ship's component. NPC ships use the skill rank of their crew for all throws.
+Combat between ships combines the skills of a crew with the quaity of their ship. The maximum impact of any throw is limited to the rank of a ship's component. NPC ships use the skill rank of their crew for all throws.
 
 *A player fires the guns on a ship with Guns 1. They throw a total of 10. The impact of the throw is 1, not 3.*
 
-When ships engage each other, first assign each ship a position score equal to the higher of its systems or thrusters rank. Use counters or dice to track the position of each ship in the conflict. position represents the current tactical situation of a ship. A ship with higher position than another is better situated and can more easily achieve its goal.
+First, assign each ship a position score equal to the higher of its electronics or thrusters rank. Use counters or dice to track the position of each ship. A ship with higher position than another is better situated and can more easily achieve its goal.
 
-*A ship with systems 1 and thrusters 2 starts an engagement with position 2.*
+*A ship with electronics 1 and thrusters 2 starts an engagement with position 2.*
 
-Each crew then declares their goal for the encounter. See the table below for common goals and requirements for achieving them. A crew achieves its goal if it meets the necessary requirements at the end of a round. The referee sets requirements for goals not listed. At any point, either side can surrender and grant the enemy their goal. Either side may change their goal at the beginning of a new round.
+Each crew then declares their goal for the encounter. See the table below for common goals and requirements for achieving them. A crew achieves its goal if it meets the necessary requirements at the end of a round. The referee sets requirements for goals not listed.
+
+At any point, either side can surrender and grant the enemy their goal. Either side may change their goal at the beginning of a new round.
 
 | Goal | Requirements |
 |------|--------------|
@@ -24,7 +26,7 @@ Each crew then declares their goal for the encounter. See the table below for co
 
 The players choose which characters will operate their ship's computer, helm the ship, shoot the guns, and perform repaits. A single character may only perform one of these tasks each round. If there are not enough characters to perform each task, the players must choose which task to skip.
 
-These are the steps for each combat round, each detailed below:
+Take the following steps each combat round:
 1. Computer
 2. Side 1 Helm
 3. Side 1 Gunnery
