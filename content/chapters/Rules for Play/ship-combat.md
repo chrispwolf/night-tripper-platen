@@ -24,7 +24,7 @@ At any point, either side can surrender and grant the enemy their goal. Either s
 | Forcibly dock with and board enemy ship | Position 4 greater than enemy's & enemy thrusters destroyed. |
 | Board by leaping from your ship to theirs. | Position 4 greater than enemy's. Boarders throw + Agility to land on enemy hull. |
 
-The players choose which characters will operate their ship's computer, helm the ship, shoot the guns, and perform repaits. A single character may only perform one of these tasks each round. If there are not enough characters to perform each task, the players must choose which task to skip.
+The players choose which characters will operate their ship's computer, helm the ship, shoot the guns, and perform repairs. A single character may only perform one of these tasks each round. If there are not enough characters to perform each task, the players must choose which task to skip.
 
 Take the following steps each combat round:
 1. Computer
