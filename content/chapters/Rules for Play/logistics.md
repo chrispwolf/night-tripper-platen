@@ -31,14 +31,14 @@ The following are lists of equipment and their costs. Listed costs assume the it
 * Carbines, Long Rifles: 10 credits
 * Laser Pistols: 100 credits
 * Laser Carbines, Laser Long Rifles: 200 credits
-* Body armor: 10 credits
-* Concealed body armor (woven into a coat, etc): 10 credits
+* Combat armor: 10 credits
+* Concealed combat armor (woven into clothing, etc): 50 credits
 
 ### Transport
-* Hover belt: 15 credits
+* Hover belt: 20 credits
 * Ground car: 30 credits
 * Hover skiff: 100 credits
-* Armored transport: 200 credits
+* Hover tank: 200 credits
 * Orbital shuttle: 500 credits
 
 ## Ports

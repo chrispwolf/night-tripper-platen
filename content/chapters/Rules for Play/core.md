@@ -20,6 +20,8 @@ Certain rules call for using a 3-sided die (d3). In these cases, roll 1d6. A rol
 
 Some tables call for using a "d66," in this case, use 2d6, with one designated as the tens digit and the other as the ones digit. For example, read a roll of 3 and 4 as 34.
 
+Lastly, some tables call for a d12. If you don't have a 12-sided die on hand use this method. Roll 1d6 and note the result. Roll a second d6. if the second result is 1-3, use the first result as-is. If the second result is 4-6, add 6 to the first result. For example a roll of 3 then 2 is 3. A roll of 5 and 4 is 11.
+
 ## Throws & Impact
 When a player character takes a dangerous or uncertain action, their player rolls 2d6. On a total of 8 or higher, the character succeeds. Otherwise, they fail and suffer consequences as determined by the referee. If an action is impossible, or if the PC lacks necessary tools or knowledge, they fail automatically.
 

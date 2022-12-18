@@ -32,7 +32,7 @@ If the total combined severity of a character's wounds is 4 or more they go out 
 
 PCs may avoid a Wound by reducing their current Luck by the full impact of the attack. They may not reduce their current Luck to less than 0.
 
-Armor ignores damage from one attack of the wearer's choosing, then must be replaced.
+Combat armor ignores damage from one attack of the wearer's choosing, then must be replaced.
 
 Laser weapons shoot beams of focused light, and render conventional armor useless.
 

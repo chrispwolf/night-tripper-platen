@@ -21,19 +21,17 @@ Roll 2d6 each for your Strength and Agility characteristics to find their starti
 
 
 ## 2. Career
-You begin at 18 years old. Your Career rank starts at 0.
+You begin at 18 years old.
 
-Choose a skill group below, and gain a free listed skill of your choice at rank 1.
+Choose a career below, and gain a free listed skill of your choice at rank 1.
 
 Undergo as many Career Terms as you wish. In each term, roll 2d6 and consult the Career Term table, below. Your character can gain skills, feel the effects of age, lose luck, or die as indicated. If you don't die, add 5 years to your character's age. A character dies if their maximum luck falls to 0 or less.
 
-On any result higher than 3, you will make a skill roll. Roll 1d6 and either gain the corresponding skill from your skill group at rank 1, or increase its rank by 1 if you have it already. 
+On any result higher than 3, you will make a skill roll. Roll 1d6 and either gain the corresponding skill from your career path at rank 1, or increase its rank by 1 if you have it already. On a 6, your character moves to a new, randomly determined career path. Roll again on the new path. If you roll a 6 again, ignore it and re-roll. Roll skills from the new career path in subsequent terms.
 
 When you gain the weapon skill and a specific weapon category is given in parenthesis, gain that skill at rank 1. If none is given, roll for a random weapon category.
 
 If you gain the weapon skill again you may increase a skill you already have, or roll a random new one.
-
-Before any term after the first, you may choose to switch to a different skill group. You may only do this once, and do not a free skill.
 
 You may end your career after any term your character survived. Continue character creation.
 
@@ -57,18 +55,18 @@ You may end your career after any term your character survived. Continue charact
 3. Gunnery
 4. Engineer
 5. Computer
-6. Choose from 1–5, increase Career rank
+6. Roll 1d6. On a 1-2 become a soldier, on a 3-4 become a merchant, on a 5-6 become a drifter.
 
 </div>
 <div class="col-6">
 
 #### Soldier (1d6)
 1. Weapon (Carbine)
-2. Weapon (Carbine)
+2. Weapon (random)
 3. Engineer
 4. Medic
 5. Gunnery
-6. Choose from 1–5, increase Career rank
+6. Roll 1d6. On a 1-2 become a spacer, on a 3-4 become a merchant, on a 5-6 become a drifter.
 
 </div>
 <div class="col-6">
@@ -79,7 +77,7 @@ You may end your career after any term your character survived. Continue charact
 3. Helm
 4. Drive
 5. Computer
-6. Choose from 1–5, increase Career rank
+6. Roll 1d6. On a 1-2 become a spacer, on a 3-4 become a solider, on a 5-6 become a drifter.
 
 </div>
 <div class="col-6">
@@ -90,7 +88,7 @@ You may end your career after any term your character survived. Continue charact
 3. Drive
 4. Forgery
 5. Gambling
-6. Choose from 1–5, increase Career rank
+6. Roll 1d6. On a 1-2 become a spacer, on a 3-4 become a solider, on a 5-6 become a merchant.
 
 </div>
 </div>
@@ -119,41 +117,41 @@ Roll a random Downfall, the reason you moved from your previous life into a wand
 
 Roll a random Personal Item.
 
-Consider the details of your Career. Who was this person before the game? Discuss it with the referee. Give your Career a title and note it along with its rank. For example, a player whose character's skills come from the Spacer and Merchant groups might decide they were a smuggler. If their Career rank was 2, they'd write "Smuggler 2" on their character card.
+Consider the details of your Career. Who was this person before the game? Discuss it with the referee. Give your Career a title and note it along with its rank. A player whose character's skills come from the Spacer and Merchant groups might decide they were a smuggler. A Soldier character might have been a mercenary, a rebel, or member of a state's armed forces.
 
 Name your character and give them a strong visual detail.
 
 ### Birth Months
-| Roll (d66) | Month & Star Sign  | Personality Trait |
+| Month (1d12) | Star Sign  | Personality Trait |
 |------------|------------------|-------------------|
-| 11,12,13 | 1, Crane        | Aloof             |
-| 14,15,16 | 2, Bear         | Stubborn          |
-| 21,22,23 | 3, Sword        | Clever            |
-| 24,25,26 | 4, Archon       | Domineering       |
-| 31,32,33 | 5, Deckhand     | Practical         |
-| 34,35,36 | 6, Sage         | Wise              |
-| 41,42,43 | 7, Merchant     | Shrewd            |
-| 44,45,46 | 8, Boar         | Loyal             |
-| 51,52,53 | 9, Desert Mouse | Flighty           |
-| 54,55,56 | 10, Firebird     | Confident         |
-| 61,62,63 | 11, Fox          | Private           |
-| 64,65,66 | 12, Navigator    | Ambitious         |
+| 1 | Crane        | Aloof             |
+| 2 | Bear         | Stubborn          |
+| 3 | Sword        | Clever            |
+| 4 | Archon       | Domineering       |
+| 5 | Deckhand     | Practical         |
+| 6 | Sage         | Wise              |
+| 7 | Merchant     | Shrewd            |
+| 8 | Boar         | Loyal             |
+| 9 | Desert Mouse | Flighty           |
+| 10| Firebird     | Confident         |
+| 11 | Fox          | Private           |
+| 12 | Navigator    | Ambitious         |
 
 ### Downfalls
-| Roll (d66) | Downfall          |
+| 1d12 | Downfall          |
 |-------------|-------------------|
-| 11,12,13    |  Betrayal         |
-| 14,15,16    |  Accident         |
-| 21,22,23    |  Violence         |
-| 24,25,26    |  Murder           |
-| 31,32,33    |  Debt             |
-| 34,35,36    |  Corruption       |
-| 41,42,43    |  Illness          |
-| 44,45,46    |  Misunderstanding |
-| 51,52,53    |  Lies             |
-| 54,55,56    |  Incompetence     |
-| 61,62,63    |  Love             |
-| 64,65,66    |  Accusation       |
+| 1    |  Betrayal         |
+| 2    |  Accident         |
+| 3    |  Violence         |
+| 4    |  Murder           |
+| 5    |  Debt             |
+| 6    |  Corruption       |
+| 7    |  Illness          |
+| 8    |  Misunderstanding |
+| 9    |  Lies             |
+| 10    |  Incompetence     |
+| 11    |  Love             |
+| 12    |  Accusation       |
 
 ### Personal Items (D66)
 | Roll(d66) | Item | Roll(d66) | Item |

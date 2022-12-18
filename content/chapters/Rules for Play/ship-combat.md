@@ -68,4 +68,4 @@ When PC crew is hit, throw an attack with a +2 bonus against a random PC, using 
 | 6 | Attacker chooses hit. Any of the above, or another contextual choice. For example breaching thier cargo hold so a specific item falls into space. |
 
 ## Engineering
-The ship's engineer can throw + engineer to jury rig a damaged component. If succesful, they return one damaged component to full operation for one round. Destroyed components cannot be jury rigged.
+Each ship's engineer throws + Engineer. If succesful, they may either jury rig a damaged component, or boost an intact component to grant one teammate advantage on their throw during the next round. Jury rigged components operate as normal during the next round. Destroyed components cannot be jury rigged, and need to be replaced in port.

@@ -8,7 +8,7 @@ bookToC: true
 The skills included in the skill groups in [character creation](/chapters/Rules-for-Play/character-creation/) are described in detail below. Create new skill groups as necessary for your home game's setting. Use any combination of these skills or new ones of your own devising.
 
 ## Business
-Managing businesses, negotiating financial transactions and overseeing trade. Directly affects the price of trade goods, as described in [trade](/chapters/Rules-for-Play/trade).
+Managing businesses, recognizing market patterns and navigating trade laws and tariffs. Directly affects the price of trade goods, as described in [trade](/chapters/Rules-for-Play/trade).
 
 ## Computer
 Writing computer programs or viruses, navigating digital bureaucracy and operating starship computer systems.
@@ -19,7 +19,7 @@ Writing a new computer program might take a week or more, and require multiple t
 Operating, repairing and modifying machines, including complex starship hardware and gate cores.
 
 ## Forgery
-Faking physical and digital documents like identification, permits, and manifests.
+Faking physical and electronic documents like identification, permits, and manifests.
 
 ## Gambling
 Common gambling games played in smoky starport bars and the parlors of nobles alike. 
