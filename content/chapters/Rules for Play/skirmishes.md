@@ -18,12 +18,10 @@ When a skirmish breaks out, divide game time into rounds. Each character may per
 
 Characters performing the same action do it simultaneously. Characters do not have to decide their action at the beginning of the round. Call out each action type in order, and announce which NPC's will act. The players may then announce if they are performing the current action. 
 
-## Attacks & Wounds
+## Attacks Wounds
 To attack an enemy in a skirmish, make a throw + relevant weapon skill. Use the hit location chart along with the lower die of an attack throw to determine hit location.
 
-Attacks can be Advantaged or Disadvantaged. If Advantaged, an attacker throws 3d6 and uses the two highest dice for the throw. If Disadvantaged, they throw 3d6 and use the two lowest.
-
-The target of an attack gains a Wound condition with a severity equal to the impact of the throw. Combined with the hit location, the target will get a condition like "Leg wound 1" or "Head wound 3."
+The target of an attack gains a Wound condition with a severity equal to the impact of the throw. See Wounds below.
 
 If the total combined severity of a character's wounds is 4 or more they go out of action and cannot act until the skirmish is over. If a single body location takes wounds totaling 4 or more severity, apply the following effects depending on location:
 * Head: instant death.
@@ -63,13 +61,13 @@ Make ranged attacks in order from top to bottom on the Ranged Attack Chart. Depe
 The weapons detailed in the chart represent broad categories of firearms. Add additional rows to the chart as needed in your campaign.
 
 ## Skirmish Tables
-### Ranged Attack Chart
+### Ranged Weapon Attack Limits
 | Weapon     | Short Range (10m) | Medium Range (30m) | Long Range (200m) | Distant Range (1km) |
 |------------|--------------------|---------------------|--------------------|----------------------|
-| Pistol     | N                  | -                   | X                  | X                    |
-| Scattergun | +                  | -                   | X                  | X                    |
-| Carbine    | N                  | N                   | -                  | X                    |
-| Long Rifle | -                  | N                   | N                  | N                    |
+| Pistol     | 4                  | 3                   | 0                  | X                    |
+| Scattergun | 6                  | 2                   | 0                  | X                    |
+| Carbine    | 4                  | 4                   | 3                  | X                    |
+| Long Rifle | 2                  | 3                   | 4                  | 4                    |
 
 ### Wound Location
 | Lower Attack Die | Location |

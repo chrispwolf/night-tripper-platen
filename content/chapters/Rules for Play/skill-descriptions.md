@@ -5,7 +5,7 @@ bookToC: true
 ---
 
 # Skills
-The skills included in the skill groups in [character creation](/chapters/Rules-for-Play/character-creation/) are described in detail below. Create new skill groups as necessary for your home game's setting. Use any combination of these skills or new ones of your own devising.
+The skills included in the careers in [character creation](/chapters/Rules-for-Play/character-creation/) are described below. Adding new skills will encourage players to find uses for them, thus changing the world of your game. Your evolving game world may call for new skills, and new careers to house them. Add as desired.
 
 ## Business
 Managing businesses, recognizing market patterns and navigating trade laws and tariffs. Directly affects the price of trade goods, as described in [trade](/chapters/Rules-for-Play/trade).
@@ -34,7 +34,7 @@ Piloting starships. Only make throws in combat situations or when making other d
 Basic medical understanding. Familiarity with medicine and surgeon's tools.
 
 ## Weapon Skills
-Use the specific skill in a weapon when attacking with that weapon. The Unarmed skill covers all brawling and martial arts. The Armed melee covers all melee combat with blades, clubs, swords, spears, etc. Each category of firearm has its own skill.
+Use the specific skill category in a weapon when attacking with that weapon. Melee covers all melee combat from fists toblades, clubs, swords, spears, etc. Each category of firearm has its own skill.
 
-## Drive
-Drive covers the driving and piloting of most vehicles other than starships. Groundcars, hover skiffs, watercraft, flyers etc.
+## Vehicle
+The driving and piloting of planetary vehicles. Groundcars, armored personnel carriers, hover skiffs, watercraft, ornithopters, jets, etc.

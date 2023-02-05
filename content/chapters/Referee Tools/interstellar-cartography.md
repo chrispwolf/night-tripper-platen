@@ -5,9 +5,9 @@ bookToC: true
 ---
 
 # Interstellar Cartography
-Before a game the referee may map a small interstellar volume for play, comprising several worlds. Worlds are described by four attributes, each ranked from 1 to 6: Habitability, Population, Authority, and Technology.
+Before a game the referee maps a small interstellar cluster comprising several inhabited star systems. Each star system has a single primary inhabited world. Inhabited worlds are described by four attributes, each ranked from 1 to 6: Habitability, Population, Authority, and Technology.
 
-Roll several dice across a sheet of paper. Five should be plenty, three in a rush. The locations of the dice mark the locations of significant star systems on your map.The number showing on each die is the local world’s Habitability rank.
+Roll several dice across a sheet of paper. Five should be plenty, three in a rush. The locations of the dice mark the locations of significant star systems on your map.The number showing on each die is the local inhabited world’s Habitability rank.
 
 Place a dot on the spot where each die landed, and note each world's Habitability.
 
@@ -17,102 +17,18 @@ Draw lines connecting each world to its nearest neighbors. These are travel rout
 
 ## World Generation Tables
 ### Habitability
-The capacity of the world to comfortably sustain human life. If you rolled several dice to make a star map, the number shown on each die is that world's habitability. Otherwise roll 1d6. Roll 1d3 in the corresponding world type column for a more specific detail.
+The capacity of the world to comfortably sustain human life. If you rolled several dice to make a star map, the number shown on each die is that world's habitability. Otherwise roll 1d6. Then determine the world's faults. A world with habitability 1-2 has 3 faults, 3-4 has 2 faults, 5 has 1 and 6 has 0. Roll or choose faults below.
 
-<table>
-    <tr>
-        <th>
-            Rank
-        </th>
-        <th>
-            World Type (1d3)
-        </th>
-    </tr>
-    <tr>
-        <td rowspan="3">1</td>
-        <td>1. A cluster of asteroids</td>
-    </tr>
-    <tr>
-        <td>
-            2. Highly corrosive atmosphere
-        </td>
-    </tr>
-    <tr>
-        <td>
-            3. Radiation-soaked ball of rock
-        </td>
-    </tr>
-    <tr>
-        <td rowspan="3">2</td>
-        <td>1. An ancient and decaying megastructure</td>
-    </tr>
-    <tr>
-        <td>
-            2. A world under constant meteor barrage
-        </td>
-    </tr>
-    <tr>
-        <td>
-            3. Geological instability, constant earthquakes
-        </td>
-    </tr>
-    <tr>
-        <td rowspan="3">3</td>
-        <td>1. Frequent acid rainfall</td>
-    </tr>
-    <tr>
-        <td>
-            2. Tidally-locked world; half in perpetual cold darkness, half in permanent burning sunlight
-        </td>
-    </tr>
-    <tr>
-        <td>
-            3. An ancient megastructure, partially functioning and falling into patcches of strange wilderness
-        </td>
-    </tr>
-    <tr>
-        <td rowspan="3">4</td>
-        <td>1. A planet with failed or partial terraforming</td>
-    </tr>
-    <tr>
-        <td>
-            2. An endless frozen tundra
-        </td>
-    </tr>
-    <tr>
-        <td>
-            3. An endless bone-dry desert
-        </td>
-    </tr>
-    <tr>
-        <td rowspan="3">5</td>
-        <td>1. A planet with a narrow area near the equator ideally suited for human life</td>
-    </tr>
-    <tr>
-        <td>
-             2. Covered in oceans
-        </td>
-    </tr>
-    <tr>
-        <td>
-            3. A lush world full of dangerous native fauna
-        </td>
-    </tr>
-    <tr>
-        <td rowspan="3">6</td>
-        <td>1. A successfully terraformed planet. Its biome highly uniform and gentle</td>
-    </tr>
-    <tr>
-        <td>
-             2. An ancient megastructure, still fully functional and self-sufficient
-        </td>
-    </tr>
-    <tr>
-        <td>
-            3. A naturally ideal planet
-        </td>
-    </tr>
-</table>
+**Faults**
+| Roll (1d6) | Fault | Detail (1d6) |
+|-|-|-|
+| 1 | **Hydrography** | 1–3: too dry, 4–6: too wet |
+| 2 | **Atmosphere** | 1: nonexistant, 2: corrosive, 3–4: thin, 5–6: dense |
+| 3 | **Temperature** | 1: frozen, 2–3: cold, dark, 4–5: hot, 6: burning |
+| 4 | **Gravity**  | 1: crushing, 2-3: high, 4–5: low, 6: microgravity |
+| 5 | **Biosphere** |  1: dangerous fauna, 2: dangerous flora, 3: deadly microbes, 4: human-incompatable, 5–6: nonexistant |
+| 6 | **Regular Disasters** | 1. geological, 2. extreme weather, 3. solar flares, 4. meteor showers, 5: wildfires, 6: esoteric (e.g. psychic storms, mass hysteria, alien phenomena, ancient tech)
+
 
 ### Population
 Roll 1d6 to determine the approximate number of people living on the world. If Habitability is 5 or 6, add 1. If Habitability is 1 or 2, subtract 1.
@@ -122,7 +38,7 @@ If desired, roll 1d6 to determine population density. On a 1, the population is 
 
 | Rank (1d6) | Approximate Population |
 |-|-|
-| 1 | Fewer than one hundred thousand  |
+| 1 | Tens of thousands  |
 | 2 | Hundreds of thousands |
 | 3 | Millions |
 | 4 | Tens of millions |
@@ -130,7 +46,7 @@ If desired, roll 1d6 to determine population density. On a 1, the population is 
 | 6 | Billions |
 
 ### Authority
-Roll 1d6 to determine the strength and unity of legal authority on the world. If Population is 5 or 6, add 1. If Population is 1 or 2, subtract 1. Roll 1d6 for government below for more detail about who wholds power.
+Roll 1d6 to determine the strength and unity of legal authority on the world. If Population is 5 or 6, add 1. If Population is 1 or 2, subtract 1. Roll 1d6 for government type below for more detail about who wholds power.
 
 | Authority Rank (1d6) | Description |
 |-|-|
@@ -141,22 +57,22 @@ Roll 1d6 to determine the strength and unity of legal authority on the world. If
 | 5 | Authority is centralized and strict. Weapons are banned for civilians except in wilderness areas. |
 | 6 | Authority is ever-present. Surveillance is ubiquitous, and laws are harshly enforced. |
 
-| Government (1d6) | Description |
+| Government Type (1d6) | Description |
 |-|-|
-| 1 | Direct Democracy |
-| 2 | Representative Democracy |
-| 3 | Capitalist Oligarchy |
-| 4 | Religious Dictatorship |
-| 5 | Military Dictatorship |
-| 6 | Inherited Nobility |
+| 1 | Anarchy |
+| 2 | Direct Democracy |
+| 3 | Representative Democracy |
+| 4 | Oligarchy |
+| 5 | Dictatorship |
+| 6 | Hereditary Feudalism |
 
 ### Technology
-The Technology attribute represents the availability of advanced technology and manufacturing on the world. A planet's Technology attribute always starts at 3. Modify it according to the world's other attributes:
+The Technology attribute represents the ready availability of advanced technology and manufacturing on the world. A planet's Technology attribute always starts at 3. Modify it according to the world's other attributes:
 * If Population is 1 or 2, subtract 1. If Population is 5 or 6, add 1.
 * If Authority is 1 or 2, subtract 1. If Authority is 5 or 6, add 1.
-* If Population is is higher than Habitability, add 1.
+* If Population is is equal to or higher than Habitability, add 1.
 
-A world with a low rank in technology may lack the heavy metals or other resources required for advanced manufacturing. These worlds import high-tech devices to fulfill certain important functions like water purification, communication, etc. Another world with a low Tech score might be under the yoke of an oligarchic ruling class that maintains order through tight control of weapons and information. 
+A world with a low rank in technology may lack the heavy metals or other resources required for advanced manufacturing. These worlds import high-tech devices to fulfill certain important functions like water purification, communication, etc. Another world with a low Tech score might be under the yoke of an oligarchic ruling class that maintains order through tight control of weapons and information. Technology rating does not correlate to the knowledge, awareness, or intelligence of a world's citizens.
 
 For each rank in tech, different technology is readily available:
 * **Rank 1:** Pre-industrial. Human and animal-powered machines. Mills, mechanical and hand weapons.
@@ -164,4 +80,4 @@ For each rank in tech, different technology is readily available:
 * **Rank 3:** Computational. Microprocessors, computer networks. Flying and orbital vehicles. Startports for servicing offworld vessels.
 * **Rank 4:** Basic interstellar. Fusion reactors, rotational gravity, artificial intelligence, suspended animation, autoprosthetics.
 * **Rank 5:** Imperial interstellar. Gate cores, faster-than-light travel, artificial gravity, large energy weapons, antimatter reactors.
-* **Rank 6:** Esoteric. Teleportation, cloaking devices, laser pistols, gravity guns, dyson spheres. Approaching Kardashev Type I.
+* **Rank 6:** Esoteric. Teleportation, cloaking devices, laser pistols, gravity guns.

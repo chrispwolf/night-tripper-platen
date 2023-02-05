@@ -9,7 +9,7 @@ title: "Upcoming Features"
 Planned additions to Night Tripper, coming soon.
 * More insider and outsider encounters
 * Opportunity generation tables
-* An example star map to launch or inspire your campaign
+* An example cluster to launch or inspire your campaign
 
 ## Musings
 Potential features, down the road a ways.

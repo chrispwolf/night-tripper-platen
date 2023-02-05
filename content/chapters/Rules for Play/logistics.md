@@ -13,33 +13,7 @@ One credit represents a significant expense. It costs one credit to live in a st
 
 Travel between star systems is measured in weeks. During a week in port the PC's can pursue opportunities, trade commodities and encounter the locals. Extensive starship repairs are measured in weeks. 
 
-One month is four weeks, and one year is 12 months. The referee should keep a calendar of the current week, month, and year of the campaign world. 
-
-## Equipment
-The following are lists of equipment and their costs. Listed costs assume the item is readily available on a world. For worlds with a very low Tech attribute, costs may be much higher for technological items. Other events in the campaign like blockades or trade disputes may also affect the costs of equipment, at the referee's discretion.
-
-### One Credit Buys
-* A medical kit
-* A mechanical tool kit (wrenches, spanners, wire cutters, etc)
-* A portable computer
-* A portable lab
-* A cutting laser
-* Etc.
-
-### Weapon & Armor Costs
-* Pistols, Scatterguns: 1 credit
-* Carbines, Long Rifles: 10 credits
-* Laser Pistols: 100 credits
-* Laser Carbines, Laser Long Rifles: 200 credits
-* Combat armor: 10 credits
-* Concealed combat armor (woven into clothing, etc): 50 credits
-
-### Transport
-* Hover belt: 20 credits
-* Ground car: 30 credits
-* Hover skiff: 100 credits
-* Hover tank: 200 credits
-* Orbital shuttle: 500 credits
+One month is four weeks, and one year is 12 months. The referee should keep a calendar of the current week, month, and year of the campaign world.
 
 ## Ports
 Worlds with a Technology attribute of 3 or more have a dedicated star port. In port, PCs can purchase equipment, repair their ship, and look for new opportunities.
@@ -73,7 +47,7 @@ Take the following steps each week the PC's spend in port:
 * Per destroyed component: +1 week
 
 ### Seeking opportunities
-PCs may throw to hear about an opportunity available on the world. Opportunities can anything from rumors about derelict ships to wealthy patrons willing to pay for a dangerous task. If a PCs Career rank applies to any opportunities the referee has prepared, they may add it to the throw.
+PCs may throw to hear about an opportunity available on the world. Opportunities can anything from rumors about derelict ships to wealthy patrons willing to pay for a dangerous task. Multiple PCs may make the throw each week to increase their chances of finding an opportunity.
 
 Opportunities need not be local to the current world. If the Referee has no adventure prepared locally, the PCs may get information about an opportunity that requires travel.
 

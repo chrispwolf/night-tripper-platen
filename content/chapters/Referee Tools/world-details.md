@@ -1,6 +1,6 @@
 ---
 weight: 2
-title: "World Details"
+title: "Cluster Details"
 bookToC: true
 ---
 
