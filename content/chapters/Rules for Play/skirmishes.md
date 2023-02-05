@@ -14,14 +14,14 @@ When a skirmish breaks out, divide game time into rounds. Each character may per
 2. Melee attacks
 3. Movement
 4. Miscellaneous
-5. Ranged attacks, in order shown on the ranged attack chart
+5. Ranged attacks and aiming, in order shown on the ranged attack chart
 
 Characters performing the same action do it simultaneously. Characters do not have to decide their action at the beginning of the round. Call out each action type in order, and announce which NPC's will act. The players may then announce if they are performing the current action. 
 
-## Attacks Wounds
+## Attacks & Wounds
 To attack an enemy in a skirmish, make a throw + relevant weapon skill. Use the hit location chart along with the lower die of an attack throw to determine hit location.
 
-The target of an attack gains a Wound condition with a severity equal to the impact of the throw. See Wounds below.
+Wounds are a type of Condition that include a Severity rating. The target of an attack gains a Wound condition with a Severity equal to the impact of the throw. Leg Wound 3, for example.
 
 If the total combined severity of a character's wounds is 4 or more they go out of action and cannot act until the skirmish is over. If a single body location takes wounds totaling 4 or more severity, apply the following effects depending on location:
 * Head: instant death.
@@ -55,8 +55,10 @@ You can run about 30' over open ground.
 ### Miscellaneous
 Turn a crank, operate a computer, drive a gravcar or inject healing nanites.
 
-### Ranged Attacks
+### Ranged Attacks & Aiming
 Make ranged attacks in order from top to bottom on the Ranged Attack Chart. Depending on the range of the attack, a weapon might be Advantaged (+), Disadvantaged (-), normal (N) or unable to attack (X).
+
+In lieu of making a ranged attack, a character may spend the round aiming. A character who aims may upgrade a disadvantaged attack to a normal one, or grant advantage to a normal attack.
 
 The weapons detailed in the chart represent broad categories of firearms. Add additional rows to the chart as needed in your campaign.
 
@@ -64,10 +66,10 @@ The weapons detailed in the chart represent broad categories of firearms. Add ad
 ### Ranged Weapon Attack Limits
 | Weapon     | Short Range (10m) | Medium Range (30m) | Long Range (200m) | Distant Range (1km) |
 |------------|--------------------|---------------------|--------------------|----------------------|
-| Pistol     | 4                  | 3                   | 0                  | X                    |
-| Scattergun | 6                  | 2                   | 0                  | X                    |
-| Carbine    | 4                  | 4                   | 3                  | X                    |
-| Long Rifle | 2                  | 3                   | 4                  | 4                    |
+| Pistol     | N                  | -                   | X                  | X                    |
+| Scattergun | +                  | -                   | X                  | X                    |
+| Carbine    | N                  | N                   | -                  | X                    |
+| Long Rifle | -                  | -                   | N                  | N                    |
 
 ### Wound Location
 | Lower Attack Die | Location |

@@ -6,11 +6,12 @@ bookToC: true
 
 # Encounters
 
-As stated in the [Starships & Travel](/chapters/Rules-for-Play/starships-travel) rules, the referee rolls 1d6 each time the players enter or leave a star system, and once per week when traveling within a system. If the roll is equal to or less than the world's Population attribute, an encounter occurs. The referee must determine who the players encounter, and the disposition of the encountered vessel.
+Per the [Starships & Travel](/chapters/Rules-for-Play/starships-travel) rules, the referee rolls 1d6 each time the players enter a system while traveling, and once when leaving a world to travel either in-system or between systems. If the roll is equal to or less than the local inhabited world's Population attribute, an encounter occurs. The referee determines who the players encounter, and the disposition of the encountered vessel.
+
+If an encounter occurs, roll another D6. If the result is less than the local Authority rank, roll an encounter from the Insiders list, if greater, roll an encounter from the Outsiders list. If equal, roll one from each. The PCs come across an Insider vessel and an Outsider vessel already interacting with each other.
 
 ## Encounter Lists
-
-Before play, prepare a list of encounters for each world, numbered from 1 to 6. For the first session, don't hesitate to repeat encounters on a world's list, or use the same encounters on multiple worlds. Remember that your prep should be easy and fun. Encounters numbered lower than the world's Authority attribute should be Insiders, and those higher should be Outsiders. The encounter numbered equal to Authority can be either, or can be an insider and outsider in conflict. When an encounter occurs in play, roll 1d6 and introduce the corresponding encounter, rolling disposition if necessary.
+Before play, prepare two lists of encounters for the cluster, each numbered from 1 to 6. One is a list of Insiders, the other is a list of Outsiders. For the first session, as few as three encounters for each is plenty. Add to the lists as the campaign continues and the details of your cluster come into focus. Eventually you may find it useful to create specific lists for certain systems, reflecting the likelyhood of particular encounters in those locations.
 
 The labels of Outsider and Insider are broad descriptors of a relationship to power structures and local authority. They are fuzzy around the edges, and are not value judgements. An encounter with corrupt militia members can be just as dangerous or more than an encounter with pirates. See the lists below for examples, or add them directly to your game.
 
@@ -28,15 +29,15 @@ The labels of Outsider and Insider are broad descriptors of a relationship to po
 3. Subversive artist
 4. War refugees
 5. Smugglers
-6. Resistance fighters
+6. Insurgents
 
 ## Disposition
-Unless the disposition of an encountered NPC is a foregone conclusion, the referee should roll on the following table to determine how NPCs feel about the PCs at the beginning of an encounter. Interpret the result within the bounds of the situation. Frequently a "very negative" result indicates an immediate attack.
+Unless the disposition of an encountered NPC is a foregone conclusion, the referee rolls on the following table to determine how NPCs feel about the PCs at the beginning of an encounter. Interpret the result within the bounds of the situation. Frequently a "very negative" result indicates an immediate attack.
 
 | 2d6 | Disposition |
 |-----|-------------|
 | 2 | Very Negative / Violent |
-| 3–5 | Negative / Hostile |
+| 3–5 | Negative / Aggressive |
 | 6–8 | Guarded / Wary / Suspicious |
 | 9–11 | Positive / Friendly |
 | 12 | Very Positive / Helpful |
