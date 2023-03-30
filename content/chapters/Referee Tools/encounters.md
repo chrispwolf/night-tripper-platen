@@ -6,9 +6,9 @@ bookToC: true
 
 # Encounters
 
-Per the [Starships & Travel](/chapters/Rules-for-Play/starships-travel) rules, the referee rolls 1d6 each time the players enter a system while traveling, and once when leaving a world to travel either in-system or between systems. If the roll is equal to or less than the local inhabited world's Population attribute, an encounter occurs. The referee determines who the players encounter, and the disposition of the encountered vessel.
+Per the [Starships & Travel](/chapters/Rules-for-Play/starships-travel) rules, the referee rolls 2d6 each time the players enter a system while traveling, and once when leaving a world to travel either in-system or between systems. Add the local world's Population attribute. If the total is 12 or greater, an encounter occurs. The referee determines whom the players encounter, and the disposition of the encountered vessel.
 
-If an encounter occurs, roll another D6. If the result is less than the local Authority rank, roll an encounter from the Insiders list, if greater, roll an encounter from the Outsiders list. If equal, roll one from each. The PCs come across an Insider vessel and an Outsider vessel already interacting with each other.
+If an encounter occurs, roll a D6. If the result is less than the local Authority rank, roll an encounter from the Insiders list, if greater, roll an encounter from the Outsiders list. If equal, roll one from each. The PCs come across an Insider vessel and an Outsider vessel already interacting with each other (most likely in conflict).
 
 ## Encounter Lists
 Before play, prepare two lists of encounters for the cluster, each numbered from 1 to 6. One is a list of Insiders, the other is a list of Outsiders. For the first session, as few as three encounters for each is plenty. Add to the lists as the campaign continues and the details of your cluster come into focus. Eventually you may find it useful to create specific lists for certain systems, reflecting the likelyhood of particular encounters in those locations.

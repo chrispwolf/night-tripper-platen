@@ -12,7 +12,7 @@ Ancient beyond memory and long assumed unassailable, the Empire's kiloparsec rea
 ## Fundamentals
 A collection of rules and procedures for interstellar adventure role-play campaigns. For one referee and any number of players; three to five being a good range.
 
-The referee creates several worlds stocked with opportunities to pursue and dangers to surmount. During play, the referee describes environments and the actions of non-player characters and creatures. The players describe their characters' actions, and the referee adjudicates outcomes. Rules assist this process by injecting unpredictablility or impartiality when desirable.
+The referee creates several worlds stocked with opportunities to pursue, dangers to surmount, and organizations pursuing their own ends. During play, the referee describes environments and the actions of non-player characters and creatures. The players describe their characters' actions, and the referee adjudicates outcomes.
 
 To play you will need at least two six-sided dice (d6), index cards, and pencils.
 
@@ -33,7 +33,7 @@ Sometimes successful throws can have additional effects, measured in Impact. A t
 Certain throws, particularly in skirmishes and ship combat, are Limited. A throws Impact cannot exceed its Limit. A total throw of 12 with a limit of 2 has an Impact of 2.
 
 ## Advantage & Disadvantage
-Certain circumstances grant Advantage or impose Disadvantage on a throw. If a throw has Advantage, roll 3d6 and use the highest 2 for the result. If Disadvantage, roll 3d6 and use the lowest 2.
+Certain circumstances grant Advantage or impose Disadvantage on a throw. If a throw is Advantaged, roll 3d6 and use the highest 2 for the result. If Disadvantage, roll 3d6 and use the lowest 2.
 
 ## Physical Characteristics & Skills
 PCs have two physical Characteristics. Strength is power and endurance. Agility is quickness and coordination.

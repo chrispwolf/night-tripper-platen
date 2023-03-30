@@ -67,10 +67,10 @@ Roll 1d6 to determine the strength and unity of legal authority on the world. If
 | 6 | Hereditary Feudalism |
 
 ### Technology
-The Technology attribute represents the ready availability of advanced technology and manufacturing on the world. A planet's Technology attribute always starts at 3. Modify it according to the world's other attributes:
+The Technology attribute represents the ready availability of advanced technology and manufacturing on the world. Roll 1d6 and modify it according to the world's other attributes. Ignore a modifier that would bring a score above 6 or below 1. 
 * If Population is 1 or 2, subtract 1. If Population is 5 or 6, add 1.
 * If Authority is 1 or 2, subtract 1. If Authority is 5 or 6, add 1.
-* If Population is is equal to or higher than Habitability, add 1.
+* If Population is higher than Habitability, add 1.
 
 A world with a low rank in technology may lack the heavy metals or other resources required for advanced manufacturing. These worlds import high-tech devices to fulfill certain important functions like water purification, communication, etc. Another world with a low Tech score might be under the yoke of an oligarchic ruling class that maintains order through tight control of weapons and information. Technology rating does not correlate to the knowledge, awareness, or intelligence of a world's citizens.
 

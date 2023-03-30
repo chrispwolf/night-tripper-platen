@@ -23,7 +23,7 @@ To attack an enemy in a skirmish, make a throw + relevant weapon skill. Use the 
 
 Wounds are a type of Condition that include a Severity rating. The target of an attack gains a Wound condition with a Severity equal to the impact of the throw. Leg Wound 3, for example.
 
-If the total combined severity of a character's wounds is 4 or more they go out of action and cannot act until the skirmish is over. If a single body location takes wounds totaling 4 or more severity, apply the following effects depending on location:
+If the total combined severity of a character's wounds is 4 or more they go out of action and cannot act until the skirmish is over. If a single body location takes wounds totaling 5 or more severity, apply the following effects depending on location:
 * Head: instant death.
 * Torso: mortal wound. Death in 1d6 hours without stabilizing medical attention.
 * Legs or arms: A limb is destroyed. Randomly determine left or right.
@@ -60,10 +60,10 @@ Make ranged attacks in order from top to bottom on the Ranged Attack Chart. Depe
 
 In lieu of making a ranged attack, a character may spend the round aiming. A character who aims may upgrade a disadvantaged attack to a normal one, or grant advantage to a normal attack.
 
-The weapons detailed in the chart represent broad categories of firearms. Add additional rows to the chart as needed in your campaign.
+The weapons in the chart represent broad categories of firearms. Add additional rows to the chart as needed in your campaign.
 
 ## Skirmish Tables
-### Ranged Weapon Attack Limits
+### Ranged Weapon Attacks
 | Weapon     | Short Range (10m) | Medium Range (30m) | Long Range (200m) | Distant Range (1km) |
 |------------|--------------------|---------------------|--------------------|----------------------|
 | Pistol     | N                  | -                   | X                  | X                    |
@@ -74,7 +74,7 @@ The weapons detailed in the chart represent broad categories of firearms. Add ad
 ### Wound Location
 | Lower Attack Die | Location |
 |------------------|----------|
-| 1                | Leg      |
-| 2                | Arm      |
-| 3–4              | Torso    |
+| 1–2              | Legs     |
+| 3                | Arms     |
+| 4                | Torso    |
 | 5–6              | Head     |

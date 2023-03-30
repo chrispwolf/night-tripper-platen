@@ -4,7 +4,7 @@ title: "Cluster Details"
 bookToC: true
 ---
 
-# World Details
+# Cluster Details
 Once you've made a basic map of several worlds and their attributes, flesh out each world with the following details. World details will inform each other, and details added to one world may lead you to change details on another. Let the process be iterative, and your worlds will feel more deeply connected to one another.
 
 Before the first session, keep these details as brief as possible. Just one or two sentences each. The players might latch onto any particular detail and turn it into many sessions of play. Or they may ignore something completely. Follow their lead, add details as necessary between sessions. If you play old-school dungeon games, consider giving each world no more detail than you might give an important room in a dungeon. The scale is just zoomed out.

@@ -43,11 +43,11 @@ Roll 2d6 each for your Strength and Agility characteristics to find their starti
 
 
 ## 3. Career
-You begin at 18 years old.
+You are 18 years old.
 
 Choose a career below, and gain a free listed skill of your choice at rank 1.
 
-Undergo as many Career Terms as you wish. In each term, roll 2d6 and consult the Career Term table, below. Your character can gain skills, feel the effects of age, lose luck, or die as indicated. If you don't die, add 5 years to your character's age. A character dies if their maximum luck falls to 0 or less.
+Undergo as many Career Terms as you wish. In each term, roll 2d6 and consult the Career Term table, below. Your character can gain skills, injuries, lose luck, or die as indicated. If you don't die, add 5 years to your character's age. A character dies if their maximum luck falls to 0 or less.
 
 On any result higher than 3, you will make a skill roll. Roll 1d6 and either gain the corresponding skill from your career path at rank 1, or increase its rank by 1 if you have it already. On a 6, your character moves to a new, randomly determined career path. Roll again on the new path. If you roll a 6 again, ignore it and re-roll. Roll skills from the new career path in subsequent terms.
 
@@ -62,7 +62,7 @@ You may end your career after any term your character survived. Continue charact
 | Roll (2d6) | Result |
 |-|-|
 | 2-3 | Death |
-| 4-6 | Make a skill roll. Suffer an injury feel the effects of age. Lose one rank in a physical characteristic, or 1d3 maximum luck. Characteristics may not be lowered to less than 0. |
+| 4-6 | Make a skill roll. Suffer an injury: Lose one rank in a physical characteristic. If Strength and Agility are both 0, lose 2 Maximum Luck. |
 | 7-9 | Make a skill roll, lose 1 Maximum luck.|
 | 10+ | Make a skill roll. |
 
@@ -179,7 +179,9 @@ Name your character and give them a strong visual detail.
 | 36 | A game board | 66 | *The Handbook of Approved Mantras* | 
 
 ## 5. Gear & Credits
-Start with any weapons in which you are skilled. If you have the Medic skill, start with a medical kit. If you have the Computer skill, start with a portable computer console. If you have the Engineer skill, start with a portable toolkit. If you have the Gambling skill, start with a deck of playing cards and dice.
+Start with any weapons in which you are skilled. If you have the Medic skill, start with a medical kit. If you have the Engineer skill, start with a portable toolkit. If you have the Gambling skill, start with a deck of playing cards and dice.
+
+Each PC starts with a portable computer called a terminal. A terminal can have nearly any form factor. Touch screen tablets, glasses, watches and decorative jewelry are all common.
 
 Roll a number of d6's equal do the decade of your age and add them together. Start play with that many credits.
 

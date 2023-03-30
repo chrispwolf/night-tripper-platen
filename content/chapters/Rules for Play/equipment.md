@@ -10,7 +10,7 @@ The following are lists of equipment and their costs. Listed costs assume the it
 ### One Credit Buys
 * A medical kit
 * A mechanical tool kit (wrenches, spanners, wire cutters, etc)
-* A portable computer
+* A terminal
 * A portable lab
 * A cutting laser
 * Etc.
