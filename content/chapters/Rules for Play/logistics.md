@@ -54,9 +54,9 @@ Opportunities need not be local to the current world. If the Referee has no adve
 Tools for generating opportunities between game sessions or on the fly are forthcoming.
 
 ### Hiring NPCs
-PCs attempting to hire on NPCs make a throw each week, adding their Career rank if it applies to the type of NPC being sought out. On a succesful throw, a specialist is found. A specialist's maximum Skill rank is 3, or the Impact of the hiring throw, whichever is lower.
+PCs attempting to hire on NPCs make an unmodified throw each week. On a succesful throw, a specialist is found. A specialist's maximum Skill rank is 3, or the Impact of the hiring throw, whichever is lower.
 
-NPCs will at a minimum expect 1 credit per week per rank of Skill. For highly specialized or dangerous tasks, they may demand as much as double that.
+NPCs will at a minimum expect 1 credit per week per rank of Skill. For highly specialized or dangerous tasks, they may demand as much as triple that.
 
 Multiple PCs may throw to find the same specialist.
 

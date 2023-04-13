@@ -53,7 +53,7 @@ If a PC's maximum Luck ever reaches zero, they burn out and retire whenever next
 PCs regain Luck when they can spend time in safety, either at port or on board the ship. If a PC doesn't use any Luck for 2 weeks, they regain 1 Luck, up to their current maximum.
 
 ## Conditions
-Bad things happen to PCs. They might get drunk, or poisoned, or get a broken leg, or a chest wound. These are Conditions. Write Conditions on a PC's character card, with a Severity rating, like "Nauseous". A condition imposes Disadvantage on any relevant throws. If a PC has the Condition "Broken Leg", any throws to run, jump, climb, etc are Disadvantaged.
+Bad things happen to PCs. They might get drunk, or poisoned, or get a broken leg, or a chest wound. These are Conditions. Write Conditions on a PC's character card. A condition imposes Disadvantage on any relevant throws. If a PC has the Condition "Broken Leg", any throws to run, jump, climb, etc are Disadvantaged.
 
 ## NPCs
 Non-player characters can be described by a single Skill stat, ranked 1 or higher, which they use for all throws that fall under their areas of expertise. The referee may flesh out more important NPCs with a specific list of skills.
