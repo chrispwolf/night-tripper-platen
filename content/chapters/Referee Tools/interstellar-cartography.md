@@ -77,7 +77,7 @@ A world with a low rank in technology may lack the heavy metals or other resourc
 For each rank in tech, different technology is readily available:
 * **Rank 1:** Pre-industrial. Human and animal-powered machines. Mills, mechanical and hand weapons.
 * **Rank 2:** Industrial. Steam engines and basic electronics; lighting; firearms.
-* **Rank 3:** Computational. Microprocessors, computer networks. Flying and orbital vehicles. Startports for servicing offworld vessels.
+* **Rank 3:** Computational. Microprocessors, computer networks. Flying and orbital vehicles. Space stations.
 * **Rank 4:** Basic interstellar. Fusion reactors, rotational gravity, artificial intelligence, suspended animation, autoprosthetics.
-* **Rank 5:** Imperial interstellar. Gate cores, faster-than-light travel, artificial gravity, large energy weapons, antimatter reactors.
-* **Rank 6:** Esoteric. Teleportation, cloaking devices, laser pistols, gravity guns.
+* **Rank 5:** Imperial interstellar. Gate cores, artificial gravity, large energy weapons, antimatter reactors.
+* **Rank 6:** High Imperial. Teleportation, cloaking devices, personal shields, laser pistols.

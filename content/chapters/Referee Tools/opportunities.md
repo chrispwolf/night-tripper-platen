@@ -7,8 +7,6 @@ bookToC: true
 # Generating Oportunities
 
 ## Locations (1d3)
-
-
 ## General Space Locations
 1. World orbit
 2. Deep interplanetary Space
