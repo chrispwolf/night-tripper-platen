@@ -15,6 +15,17 @@ Before play, prepare two lists of encounters for the cluster, each numbered from
 
 The labels of Outsider and Insider are broad descriptors of a relationship to power structures and local authority. They are fuzzy around the edges, and are not value judgements. An encounter with corrupt militia members can be just as dangerous or more than an encounter with pirates. See the lists below for examples, or add them directly to your game.
 
+## Disposition
+Unless the disposition of an encountered NPC is a foregone conclusion, the referee rolls on the following table to determine how NPCs feel about the PCs at the beginning of an encounter. Interpret the result within the bounds of the situation. Frequently a "very negative" result indicates an immediate attack.
+
+| 2d6 | Disposition |
+|-----|-------------|
+| 2 | Very Negative / Violent |
+| 3–5 | Negative / Aggressive |
+| 6–8 | Guarded / Wary / Suspicious |
+| 9–11 | Positive / Friendly |
+| 12 | Very Positive / Helpful |
+
 ### Example Insiders
 1. System Militia patrolling in a gunship
 2. Noble's pleasure yacht
@@ -30,17 +41,4 @@ The labels of Outsider and Insider are broad descriptors of a relationship to po
 4. War refugees
 5. Smugglers
 6. Insurgents
-
-## Disposition
-Unless the disposition of an encountered NPC is a foregone conclusion, the referee rolls on the following table to determine how NPCs feel about the PCs at the beginning of an encounter. Interpret the result within the bounds of the situation. Frequently a "very negative" result indicates an immediate attack.
-
-| 2d6 | Disposition |
-|-----|-------------|
-| 2 | Very Negative / Violent |
-| 3–5 | Negative / Aggressive |
-| 6–8 | Guarded / Wary / Suspicious |
-| 9–11 | Positive / Friendly |
-| 12 | Very Positive / Helpful |
-
-
 

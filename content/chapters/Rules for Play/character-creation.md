@@ -73,7 +73,7 @@ You may end your career after any term your character survived. Continue charact
 
 #### Spacer (1d6)
 1. Helm
-2. Weapon: Scattergun
+2. Firefight
 3. Gunnery
 4. Engineer
 5. Computer
@@ -83,8 +83,8 @@ You may end your career after any term your character survived. Continue charact
 <div class="col-6">
 
 #### Soldier (1d6)
-1. Weapon: Carbine
-2. Weapon
+1. Firefight
+2. Melee Combat
 3. Engineer
 4. Medic
 5. Vehicle
@@ -95,7 +95,7 @@ You may end your career after any term your character survived. Continue charact
 
 #### Merchant (1d6)
 1. Business
-2. Weapon: Pistol
+2. Firefight
 3. Gunnery
 4. Gambling
 5. Computer
@@ -105,7 +105,7 @@ You may end your career after any term your character survived. Continue charact
 <div class="col-6">
 
 #### Outlaw (1d6)
-1. Weapon: Melee
+1. Melee Combat
 2. Helm
 3. Vehicle
 4. Forgery
@@ -113,21 +113,6 @@ You may end your career after any term your character survived. Continue charact
 6. Roll 1d6. On a 1-2 become a spacer, on a 3-4 become a solider, on a 5-6 become a merchant.
 
 </div>
-</div>
-
-<div class="grid">
-<div class="col-6">
-
-#### Random Weapon (1d6)
-1. Melee
-2. Melee
-3. Pistol
-4. Scattergun
-5. Carbine
-6. Long Rifle
-
-</div>
-
 </div>
 
 ## 4. Downfall, Details & Personal Item

@@ -20,7 +20,7 @@ At any point, either side can surrender and grant the enemy their goal. Either s
 | Reach specific local position | Operational thrusters. |
 | Escape | Operational gate core. |
 | Forcibly dock with and board enemy ship | Enemy thrusters destroyed. |
-| Board by leaping from your ship to theirs. |  Boarders throw + Agility to land on enemy hull. |
+| Board by leaping from your ship to theirs. |  Boarders throw + Agility to land on enemy hull. How they get inside from there is another matter. |
 
 The players choose which characters will operate their ship's computer, helm the ship, shoot the guns, and perform repairs. A single character may only perform one of these tasks each round. If there are not enough characters to perform each task, the players must choose which task to skip.
 
@@ -63,7 +63,7 @@ When PC crew is hit, throw an attack with a +2 bonus against a random PC, using 
 | 3 | Guns |
 | 4 | Gate core |
 | 5 | Crew |
-| 6 | Attacker chooses hit. Any of the above, or another contextual choice. For example breaching thier cargo hold so a specific item falls into space. |
+| 6 | Attacker chooses hit. Any of the above, or another contextual choice. For example breaching their cargo hold so a specific item falls into space. |
 
 ## Engineering
 Each ship's engineer throws + Engineer. If succesful, they may either jury rig a damaged component, or boost an intact component to grant one teammate advantage on their throw during the next round. Jury rigged components operate as normal during the next round. Destroyed components cannot be jury rigged, and need to be replaced in port.

@@ -64,12 +64,14 @@ The weapons in the chart represent broad categories of firearms. Add additional 
 
 ## Skirmish Tables
 ### Ranged Weapon Attacks
-| Weapon     | Short Range (10m) | Medium Range (30m) | Long Range (200m) | Distant Range (1km) |
-|------------|--------------------|---------------------|--------------------|----------------------|
-| Pistol     | N                  | -                   | X                  | X                    |
-| Scattergun | +                  | -                   | X                  | X                    |
-| Carbine    | N                  | N                   | -                  | X                    |
-| Long Rifle | -                  | -                   | N                  | N                    |
+| Weapon       | Short Range (<10m)  | Medium Range (<30m)  | Long Range (<200m)  | Distant Range (<1km)  |
+|--------------|---------------------|----------------------|---------------------|-----------------------|
+| Laser Pistol | +                   | N                    | X                   | X                     |
+| Laser Rifle  | +                   | N                    | X                   | X                     |
+| Pistol       | N                   | -                    | X                   | X                     |
+| Scattergun   | +                   | -                    | X                   | X                     |
+| Carbine      | N                   | N                    | -                   | X                     |
+| Long Rifle   | -                   | -                    | N                   | N                     |
 
 ### Wound Location
 | Lower Attack Die | Location |

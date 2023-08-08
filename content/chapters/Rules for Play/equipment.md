@@ -11,15 +11,14 @@ The following are lists of equipment and their costs. Listed costs assume the it
 * A medical kit
 * A mechanical tool kit (wrenches, spanners, wire cutters, etc)
 * A terminal
-* A portable lab
+* A portable science lab
 * A cutting laser
+* Binoculars
 * Etc.
 
-### Weapon & Armor Costs
+### Weapon & Armor
 * Pistols, Scatterguns: 1 credit
 * Carbines, Long Rifles: 5 credits
-* Laser Pistols: 100 credits
-* Laser Carbines, Laser Long Rifles: 200 credits
 * Combat armor: 15 credits
 * Concealed combat armor (woven into clothing, etc): 50 credits
 
