@@ -5,7 +5,18 @@ bookToC: true
 ---
 
 # Preparing to Play
-Use the tools in the following chapters to create an interstellar sandbox setting before the game. In just a few steps you can quickly write up several neighboring worlds and their inhabitants, and feel confident about turning your players loose. Follow these steps.
+Use the tools in the following chapters to create an interstellar sandbox setting before the game. In just a few steps you can quickly write up several neighboring worlds and their inhabitants, and feel confident about turning your players loose.
+
+Prior to the first session of a campaign, keep your details sparse and loose. You only need a few sentences for each world. Opportunities only need a couple paragraphs of detail. Encounters can be straightforward and generic. Your players can fly in any direction and get themselves into all kinds of trouble right from the jump. Let them! Include just enough detail to give them a view of the setting and have it respond to their actions. Your cluster will come alive with more detailed worlds, NPCs and its own history through the course of play.
+
+Follow these steps:
+1. Use [Interstellar Cartography](/content/chapters/Referee%20Tools/interstellar-cartography) to generate and map the worlds of your cluster.
+2. Add [details](/content/chapters/Referee%20Tools/world-details.md) to your worlds.
+3. Write up the major [Organizations](/content/chapters/Referee%20Tools/organizations.) vying for influence in the cluster.
+4. Create [opportunities](/content/chapters/Referee%20Tools/opportunities) for profit and adventure.
+5. List [encounters](/content/chapters/Referee%20Tools/encounters) the PCs may have while traveling through space.
+
+
 
 
 ## 1. The Star Map
