@@ -69,6 +69,6 @@ On worlds without free medical care, healing will cost 1 credit per Severity of 
 On worlds with an Authority of 3 or higher, injuries sustained by violence will usually prompt questions from law enforcement.
 
 ### Skill Training
-A PC may spend time and credits to hire trainers and rent equipment to improve their skills. Improving a skill requires weeks of training equal to the new skill level times 4. Each week of training costs a number of credits equal to the new skill level. Training weeks do not have to be consecutive, but a PC may only train one skill at a time.
+A PC may spend time and credits to hire trainers and rent equipment to improve their skills. Improving a skill requires weeks of training equal to the new skill level times 4. Each week of training costs a number of credits equal to the new skill level. Training weeks do not have to be consecutive.
 
 *Training Computer 1 to computer 2 requires 8 weeks of training and costs 2 credits per week*

@@ -11,7 +11,7 @@ Combat between ships combines the skills of a crew with the quaity of their ship
 
 Assign each ship a Position score equal to its electronics rank. Use counters or dice to track the Position of each ship. A ship with higher Position than another is better situated and can more easily achieve its goal.
 
-Each crew then declares their goal for the encounter. A side achieves their goal at the end of a round if their Position is 3 or more greater than the other side's Position. Most goals will also have another requirement. See the table below for common goal requirements.
+Each crew then declares their goal for the encounter. A side achieves their goal at the end of a round if their Position is 3 or more greater than the other side's Position. Most goals will also have another requirement. See the table below for common goal requirements. Requirements for goals not listed below are up to the referee.
 
 At any point, either side can surrender and grant the enemy their goal. Either side may change their goal at the beginning of a new round.
 
@@ -53,10 +53,10 @@ The first time Thrusters, Guns, Electronics, or Gate Core are hit, the component
 
 Throws using damaged thrusters, guns, or electronics are disadvantaged. A damaged gate core cannot be used to jump to gatespace or escape. Destroyed components cannot be used until repaired in port.
 
-When PC crew is hit, throw an attack with a +2 bonus against a random PC, using the [skirmish rules](https://www.night-tripper.fun/chapters/rules-for-play/skirmishes/#attacks--wounds). If NPC crew is hit, reduce NPC ship skill by 1. This can cause their skill to become negative.
+When PC crew is hit, throw an attack of 2d6 + 2 against a random PC, using the [skirmish rules](https://www.night-tripper.fun/chapters/rules-for-play/skirmishes/#attacks--wounds) for wounds. If NPC crew is hit, reduce NPC ship skill by 1. This can cause their skill to become negative.
 
 ### Hit Location (1d6)
-| Roll | Hit Location & Effect |
+| Roll | Hit Location |
 |------|-----------------------|
 | 1 | Electronics |
 | 2 | Thrusters |

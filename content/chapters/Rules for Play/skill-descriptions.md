@@ -33,8 +33,11 @@ Piloting starships. Only make throws in combat situations or when making other d
 ## Medic
 Basic medical understanding. Familiarity with medicine and surgeon's tools.
 
-## Weapon Skills
-Use the specific skill category in a weapon when attacking with that weapon. Melee covers all melee combat from fists toblades, clubs, swords, spears, etc. Each category of firearm has its own skill.
+## Firefight
+Use of firearms in combat.
+
+## Melee Combat
+Fighting with melee weapons, including bladed weapons, clubs, hands, etc.
 
 ## Vehicle
 The driving and piloting of planetary vehicles. Groundcars, armored personnel carriers, hover skiffs, watercraft, ornithopters, jets, etc.

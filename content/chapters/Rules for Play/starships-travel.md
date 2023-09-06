@@ -24,7 +24,7 @@ The players may start with a starship. If they do, they are likely in debt for t
 |------|---------|-------------|------|----------|-----------|-|
 | Militia Gunship* | 1 | 1 | 2 | 1 | 1 | 700c | 
 | Military Frigate | 2 | 1 | 3 | 3 | 4 | 3000c |
-| Trade Cog | 1 | 1 | 0 | 4 | 2 | 1000c |
+| Trade Cog | 1 | 1 | 1 | 4 | 2 | 1000c |
 | Blockade Runner | 2 | 3 | 1 | 2 | 1 | 2000c |
 | Pirate Raider | 2 | 2 | 2 | 4 | 2 | 2500c |
 

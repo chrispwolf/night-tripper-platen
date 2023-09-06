@@ -26,19 +26,95 @@ Unless the disposition of an encountered NPC is a foregone conclusion, the refer
 | 9–11 | Positive / Friendly |
 | 12 | Very Positive / Helpful |
 
-### Example Insiders
-1. System Militia patrolling in a gunship
-2. Noble's pleasure yacht
-3. Luxury Liner
-4. Gigacorp CEO in a branded cruiser
-5. Prisoner Transport
-6. Merchant, laden with goods
+## Example Insiders
+### 1. System Militia
+Orbital enforcers for the local polity.\
+**Militia Gunship:**\
+Skill 1, Electronics 1, Thrusters 1, Guns 2, Hold 1, Quarters 2. *Cargo scanner, No gate core*  
+**Crew:**\
+1d3+1 Constables: Skill 1. *Pistols, Scatterguns*.
 
-### Outsiders
-1. Ice miners on strike
-2. Pirate Raiders
-3. Subversive artist
-4. War refugees
-5. Smugglers
-6. Insurgents
+
+### 2. Nobles
+Born into privilege, intolerant of delays.\
+**Pleasure Yacht:**\
+Skill 2, Electronics 2, Thrusters 2, Guns 1, Hold 1, Quarters 4.\
+**Crew:**\
+1d6 Nobles & Entourage: Skill 0. *Laser pistols, personal shields.*\
+2d6 Bodyguards: Skill 2. *Laser rifles, swords, armor*.
+
+### 3. Bounty Hunters
+Ruthless enforcers beyond jurisdiction.\
+**Custom Cruiser**\
+Skill 2, Electronics 2, Thrusters 2, Guns 2, Hold 1, Quarters 1. *1d3 Jammer Torpedoes, Suspension Brig*\
+**Crew:**\
+1d3 + 1 Bounty Hunters: Skill 2, *Scatterguns, Pistols, Net Launchers, Shock Sticks, Armor*
+
+### 4. Luxury Cruise
+Wealthy passengers transit between worlds aboard a glittering playground. 
+**Passenger Liner**
+Skill 1, Electronics 1, Thrusters 1, Guns 1, Hold 4, Quarters 25. *Combat Drones*
+**Crew:**
+d66 + 20 Passengers & Workers: Skill 0
+1d6 + 2 Security Guards: Skill 1 *Pistols*
+
+### 5. Prisoner Transport
+Convicts in suspension being brought to an orbital penetentiary. 
+**Penal Transport**
+Skill 1, Electronics 1, Thrusters 1, Guns 2, Hold 4, Quarters 2. *Suspension Brig*
+**Crew:**
+1d6 + 1 Corrections Officers: Skill 1 *Pistols, Shock Sticks*
+3d6 Convicts in suspended animation pods.
+
+### 6. Mercenaries
+Veteran killers farming violence for profit. 
+**Military Cruiser**
+Skill 2, Electronics 2, Thrusters 2, Guns 3, Hold 2, Quarters 4. *Suspension Brig*
+**Crew:**
+4d6 Mercenaries: Skill 2, *Scatterguns, Pistols, Carbines, Serrated Knives, Armor*
+
+
+## Example Outsiders
+### 1. Striking Asteroid Miners
+Laborers seizing their tools and ships to protest outrageously dangerous conditions.
+**Mining Barge**
+Skill 2, Electronics 1, Thrusters 1, Guns 1, Hold 6, Quarters 6. *Mining Rig*
+**Crew:**
+6d6 Mercenaries: Skill 2, *Scatterguns, Industrial Tools*
+
+### 2. Pirates
+Members of one of the pirate fleets, siezing cargo through intimidation and violence.
+**Pirate Raider**
+Skill 1, Electronics 2, Thrusters 2, Guns 2, Hold 4, Quarters 2.
+**Crew:**
+2d6 Pirates: Skill 1, *Scatterguns, Cutlasses*
+
+### 3. Subversive Artists
+Idealistic young people trying to make change by broadcasting counter-cultural visual and performance art.
+**Used Trade Cog**
+Skill 0, Electronics 1, Thrusters 1, Guns 1, Hold 4, Quarters 2.
+**Crew:**
+4d6 Artists: Skill 0, *Paints, Canvases, Holo Art, Amateur Poetry*
+
+### 4. Refugees
+Families on a crowded ship desperately fleeing wars or other violence. They've put their trust in this crew, who are either genuine samaritans or rank opportunists.
+**Trade Cog**
+Skill 1, Electronics 1, Thrusters 1, Guns 1, Hold 4, Quarters 2.
+**Crew:**
+1d6 Ship Crew: Skill 1, *Pistols, Scatterguns*
+4d6 Refugees: Skill 0, *Bare Necessities*
+
+### 5. Smugglers
+Adrenaline junkies in a fast ship, making quick cash in the contraband business.
+**Blockade Runner**
+Skill 2, Electronics 2, Thrusters 3, Guns 1, Hold 2, Quarters 2.
+**Crew:**
+2d3 Smugglers: Skill 1, *Pistols, Scatterguns*
+
+### 6. Insurgents
+A cell of underground revolutionaries on their way to carry out an operation.
+**Trade Cog**
+Skill 1, Electronics 1, Thrusters 1, Guns 1, Hold 4, Quarters 2.
+**Crew:**
+2d6 Revolutionaries: Skill 1, *Pistols, Scatterguns, Explosives*
 

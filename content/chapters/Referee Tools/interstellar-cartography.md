@@ -9,7 +9,7 @@ Before a game the referee maps a small interstellar cluster comprising several i
 
 Roll several dice across a sheet of paper. Five should be plenty, three in a rush. The locations of the dice mark the locations of significant star systems on your map.The number showing on each die is the local inhabited world’s Habitability rank.
 
-Place a dot on the spot where each die landed, and note each world's Habitability.
+Draw a small circle on the spot where each die landed, and note each world's Habitability.
 
 Roll the remainder of each world’s attributes using the following tables. Roll 1d6 on each table and note the results. Each roll may be affected by earlier rolls. Finally, calculate the world’s Technology attribute.
 
@@ -81,3 +81,28 @@ For each rank in tech, different technology is readily available:
 * **Rank 4:** Basic interstellar. Fusion reactors, rotational gravity, artificial intelligence, suspended animation, autoprosthetics.
 * **Rank 5:** Imperial interstellar. Gate cores, artificial gravity, large energy weapons, antimatter reactors.
 * **Rank 6:** High Imperial. Teleportation, cloaking devices, personal shields, laser pistols.
+
+## World Details
+Flesh out each world with the following details. World details will inform each other, and details added to one world may lead you to change details on another. Let the process be iterative, and your worlds will feel more deeply connected to one another.
+
+### Imports and Exports
+Based on the world's attributes, which types of goods are in supply and which are in demand? Make the goods more specific. For example if a world supplies Organics, is there a specific crop they export? If they need to import necessities for survival, how do the people deal with that precarity? Use the goods tables in [Trade](/content/chapters/Rules%20for%20Play/trade).
+
+### Key NPCs
+Describe one or two important NPCs in about a sentence each. These are often people in positions of power and influence, but can be anyone with a stake in the world and an opportunity for the PCs. What do they want? How will they get it? How can the PCs help them? How are they tied to the world's economy, imports and exports? As you define your cluster's [organizations](/content/chapters/Referee%20Tools/organizations.md) you can revisit this step.
+
+#### Example Key NPCs
+| Roll(d66) | NPC | Roll(d66) | NPC |
+|-----------|-----|-----------|-----|
+| 11 - 12 | Politician | 41 - 42 | Artist |
+| 13 - 14 | Clergy | 43 - 44 | Military Officer |
+| 15 - 16 | Revolutionary | 45 - 46 | Labor Representative |
+| 21 - 22 | Imperial Official | 51 - 52 | Black Marketer |
+| 23 - 24 | Planetary Noble | 53 - 54 | Terraformer |
+| 25 - 26 | Gigacorp Executive | 55 - 56 | Information Broker |
+| 31 - 32 | Crime Boss | 61 - 62 | Merchant |
+| 33 - 34 | Celebrity | 63 - 64 | Cult Zealot |
+| 35 - 36 | Ancient Technology Collector | 65 - 66 | Spy master |
+
+### Visuals
+Come up with one or two strong visual details to capture the feeling of the world, use these in play to describe the world to the players. A binary sunset reflecting off gleaming towers. A moldering mountain of cast-off ancient tech. Ancient temple ruins choked under the roots of a great tree. A warren of cramped tunnels under a radiation-soaked surface. A local knight riding a giant flightless bird. Decadent nobles in a hovering skiff, watching peasants toil in the fields below.
